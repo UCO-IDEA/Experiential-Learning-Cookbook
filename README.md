@@ -1,9 +1,3 @@
-
----
-layout: post
-title: Blogging Like a Hacker
----
-
 # Table of Contents
 
 1. [Intro to the Lumina Foundation Experiential Learning Assignment](intro.md)
