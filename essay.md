@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 
 # Interactive Essay
 A tool that allows students to work collaboratively to manipulate an essay to learn and thrive at essay structure. Students collaboratively edit the same essay while participating in discussion to determine the best placement for each paragraph.
