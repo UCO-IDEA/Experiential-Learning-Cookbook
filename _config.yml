@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to The IDEA Teams Homepage
 description: Hellow
+markdown: kramdown
