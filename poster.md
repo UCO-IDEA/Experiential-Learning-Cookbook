@@ -36,12 +36,12 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Developers
 
-![Developer Process Map](/Assets\DigitalPoster\DigitalPoster-ExperienceMap-Developer.PNG)
+![Developer Process Map](/DigitalPoster-ExperienceMap-Developer.PNG)
 
 ### Process Map for Instructors
 
-![instructor map](Assets\DigitalPoster\DigitalPoster-ExperienceMap-Instructor.PNG)
+![instructor map](/DigitalPoster-ExperienceMap-Instructor.PNG)
 
 ### Process Map for Students
 
-![Students Map](Assets\DigitalPoster\DigitalPoster-ExperienceMap-Student.PNG)
+![Students Map](/DigitalPoster-ExperienceMap-Student.PNG)
