@@ -1,5 +1,5 @@
 
-[first-line-h1 ref]:Assets\Digital poster\DigitalPoster-Header.png "Digital poster Image"
+[ref]:Assets\Digital poster\DigitalPoster-Header.png "Digital poster Image"
 
 # Digital Poster
 
