@@ -1,5 +1,5 @@
 
-![Digital Poster Image](/DigitalPoster-Header.png)
+![Digital Poster Image](/Assets/DigitalPoster/DigitalPoster-Header.png)
 
 # Digital Poster
 
