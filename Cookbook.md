@@ -165,7 +165,7 @@ Services |
 
 (WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
-![Digital Poster Title Map](https://drive.google.com/drive/u/0/folders/1gTNxaBDHpK8JHsCTDIb0Uk5sTfsgnly7)
+![Digital Poster Title Map](DigitalPoster-ExperienceMap-Developer.PNG.zip)
 
 # Digital Poster
 
