@@ -35,10 +35,10 @@ The student then finalizes their poster presentation, receives a link to their w
 * [Visit a Classmates Poster](https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be)
 
 ### Process Map for Developers
-![Developer Process Map](/dAssets/DigitalPoster/DigitalPoster-experiencemap-developer.png)
+![Developer Process Map](/Assets\DigitalPoster\DigitalPoster-ExperienceMap-Developer.PNG)
 
 ### Process Map for Instructors
-![instructor map](Assets/DigitalPoster/DigitalPoster-ExperienceMap-Instructor.png)
+![instructor map](Assets\DigitalPoster\DigitalPoster-ExperienceMap-Instructor.PNG)
 
 ### Process Map for Students
-![Students Map](Assets/DigitalPoster/DigitalPoster-ExperienceMap-Student.png)
+![Students Map](Assets\DigitalPoster\DigitalPoster-ExperienceMap-Student.PNG)
