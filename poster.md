@@ -36,12 +36,12 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Developers
 
-![Digital Poster Image Experience Map](/C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\DigitalPoster-ExperienceMap-Developer.PNG)
+![Digital Poster Image Experience Map](/Assets/DigitalPoster/ExperienceMap-Developer.PNG)
 
 ### Process Map for Instructors
 
-![Digital Poster Image Experience Map](/assets/Digital%20Poster/ExperienceMap-Instructor.png)
+![Digital Poster Image Experience Map](/Assets/DigitalPoster/ExperienceMap-Instructor.PNG)
 
 ### Process Map for Students
 
-![Digital Poster Image Experience Map](/assets/Digital%20Poster/ExperienceMap-student.png)
+![Digital Poster Image Experience Map](/assets/DigitalPoster/ExperienceMap-student.PNG)
