@@ -1,5 +1,5 @@
 
-![Digital Poste Image] (https://github.com/smelher/Images-/blob/main/DigitalPoster-Header.png)
+"c:\Users\smelher\Documents\ExperientialLearningCookbook\poster.md" will be run "onType".
 
 # Digital Poster
 
