@@ -1,5 +1,5 @@
 
-![Digital Poster Photo](C:\Users\smelher\Desktop\Digital poster)
+![Digital Poster Photo](DigitalPoster-Header.png)
 
 # Digital Poster
 
