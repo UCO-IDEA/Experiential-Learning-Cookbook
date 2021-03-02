@@ -1,5 +1,5 @@
 
-[ref]:Assets\Digital poster\DigitalPoster-Header.png "Digital poster Image"
+![Digital Poster Image](/Assets/Digital%20poster/DigitalPoster-Header.png)
 
 # Digital Poster
 
