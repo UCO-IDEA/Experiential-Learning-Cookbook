@@ -1,5 +1,5 @@
 
-![poster Image](Assets/Digital%20poster/DigitalPoster-Header.pngc:\Users\smelher\Documents\ExperientialLearningCookbook\poster.md" will be run "onType".)
+[first-line-h1 ref]:Assets\Digital poster\DigitalPoster-Header.png "Digital poster Image"
 
 # Digital Poster
 
