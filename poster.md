@@ -1,5 +1,5 @@
 
-"c:\Users\smelher\Documents\ExperientialLearningCookbook\poster.md" will be run "onType".
+![poster Image](Assets/Digital%20poster/DigitalPoster-Header.pngc:\Users\smelher\Documents\ExperientialLearningCookbook\poster.md" will be run "onType".)
 
 # Digital Poster
 
