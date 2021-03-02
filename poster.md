@@ -1,5 +1,5 @@
 
-![Digital Poster Photo] (https://github.com/UCO-IDEA/ExperientialLearningCookbook/blob/main/DigitalPoster-Header.png)
+![Digital Poste Image] (https://github.com/smelher/Images-/blob/main/DigitalPoster-Header.png)
 
 # Digital Poster
 
