@@ -8,12 +8,12 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 ## **How it Works**
 
-![Image for Roles FWD](C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\Forward-Screenshot-1.PNG)
+![Image for Roles FWD](/Assets\Forward-Screenshot-1.PNG)
 
 ### Teams of four select their roles
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
 
-![Image for FWD](C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\Forward-Screenshot-2.PNG)
+![Image for FWD](/Assets\Forward-Screenshot-2.PNG)
 
 ### Players make decisions
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
