@@ -5,3 +5,6 @@ If you want to embed images, this is how you do it:
 ![image digital poster](/DigitalPoster-Header.png)
 
 ![Digital Poster image inside of the digital poster folder ](/Assets/Digital%20poster/DigitalPoster-Header.png)
+
+![Digital Poster Image Experience Map](/assets/Digital%20Poster/ExperienceMap-Developer.png)
+

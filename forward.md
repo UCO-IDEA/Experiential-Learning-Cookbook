@@ -1,4 +1,4 @@
-
+![Forward Image](file:///C:/Users/smelher/Downloads/Forward-Header%20(2).svg)
 
 # Forward
 A leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-specific decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on-time.
@@ -8,8 +8,12 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 ## **How it Works**
 
+![Image for Roles FWD](C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\Forward-Screenshot-1.PNG)
+
 ### Teams of four select their roles
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
+
+![Image for FWD](C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\Forward-Screenshot-2.PNG)
 
 ### Players make decisions
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
