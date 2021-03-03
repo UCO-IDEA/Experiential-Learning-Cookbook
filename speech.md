@@ -39,9 +39,12 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 ### Process Map for Instructors
 
+![Process map for Instructors](Assets/DigitalPoster/PersuasiveSpeech-ExperienceMap-Instructor.jpg)
+
 ### 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 ### Process Map for Students
 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
+![Process Map for Students](Assets/DigitalPoster/PersuasiveSpeech-ExperienceMap-Student-Presenting.jpg)
+
+![Process Map for Students part 2](Assets/DigitalPoster/PersuasiveSpeech-ExperienceMap-Student-ViewingVideos.jpg)
