@@ -44,4 +44,4 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Students
 
-![Digital Poster Image Experience Map](/Assets/DigitalPoster/DigitalPoster-ExperienceMap-Student%20(1).jpg
+![Digital Poster Image Experience Map](/Assets/DigitalPoster/DigitalPoster-ExperienceMap-Student%20(1).jpg)
