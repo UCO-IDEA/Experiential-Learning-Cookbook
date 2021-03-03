@@ -44,4 +44,4 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Students
 
-![Digital Poster Image Experience Map](/Assets\DigitalPoster\DigitalPoster-ExperienceMap-Student.png)
+![Digital Poster Image Experience Map](/C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\DigitalPoster\DigitalPoster-ExperienceMap-Student.png)
