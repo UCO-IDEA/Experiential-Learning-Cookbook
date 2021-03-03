@@ -33,6 +33,8 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 ### Process Map for Developers
 
+![Process map for Developers](Assets/DigitalPoster/PersuasiveSpeech-ExperienceMap-Developer.jpg)
+
 ## 
 
 ### Process Map for Instructors
