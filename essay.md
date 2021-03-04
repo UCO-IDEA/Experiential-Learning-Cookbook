@@ -44,3 +44,6 @@ Once all team members are in agreement that the essay is complete, they simply n
 
 ### Process Map for Developers
 ![Essay Instructor Map](/Assets/DigitalPoster/InteractiveEssay-ExperienceMap-Instructor.jpg)
+
+### Process Map for Students
+![Essay Student Map](/Assets/DigitalPoster/InteractiveEssay-ExperienceMap-Students.jpg)
