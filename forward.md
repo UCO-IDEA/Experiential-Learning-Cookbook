@@ -1,4 +1,4 @@
-![Forward Image](/Assets/Images%20for%20Tools/Forward-Header%20(2).jpg)
+![Forward Image](/Assets/ImagesForTools/Forward-Header%20(2).jpg)
 
 # Forward
 A leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-specific decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on-time.
@@ -8,12 +8,12 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 ## **How it Works**
 
-![Image for Roles FWD](/Assets/Images%20for%20Tools/Forward-Screenshot-1.jpg)
+![Image for Roles FWD](/Assets/ImagesForTools/Forward-Screenshot-1.jpg)
 
 ### Teams of four select their roles
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
 
-![Image for FWD](/Assets/Images%20for%20Tools/Forward-Screenshot-2%20(1)%20(1).jpg)
+![Image for FWD](/Assets/ImagesForTools/Forward-Screenshot-2%20(1)%20(1).jpg)
 
 ### Players make decisions
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
@@ -21,7 +21,7 @@ Each player makes one role-specific decision each round, making sure to communic
 ### Leader decides how to travel
 The leader sees the decisions each team member has made, communicates with the team to discuss what to do, and then submits their choice to determine if their team climbs up the mountain, stays at the current camp, or travels back down the mountain.
 
-![Forward Players Image](/Assets/Images%20for%20Tools/Forward-Screenshot-3.jpg)
+![Forward Players Image](/Assets/ImagesForTools/Forward-Screenshot-3.jpg)
 
 ### Players assess their situation
 Once a new turn begins, all players will be taken to the progress report where they can see the result of their most recent choice, the location of each team member, and other basic information.
@@ -34,10 +34,10 @@ When the next turn begins the cycle starts again as players attempt to work toge
 **[Video Instructions](https://www.youtube.com/watch?v=PPqKYJ3dUsA)**
 
 ### Process Map for Developers
-![FWD Developer Map](/Assets/Images%20for%20Tools/Forward-ExperienceMap-Developer.jpg)
+![FWD Developer Map](/Assets/ImagesForTools/Forward-ExperienceMap-Developer.jpg)
 
 ### Process Map for Instructors
-![FWD Instructor Map](/Assets/Images%20for%20Tools/Forward-ExperienceMap-Instructor.jpg)
+![FWD Instructor Map](/Assets/ImagesForTools/Forward-ExperienceMap-Instructor.jpg)
 
 ### Process Map for Students
-![FWD Student Map](/Assets/Images%20for%20Tools/Forward-ExperienceMap-Student.png)
+![FWD Student Map](/Assets/ImagesForTools/Forward-ExperienceMap-Student.png)

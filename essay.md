@@ -1,5 +1,5 @@
 
-![Essay Header Image](/Assets/Images%20for%20Tools/InteractiveEssay-Header.jpg)
+![Essay Header Image](/Assets/ImagesForTools/InteractiveEssay-Header.jpg)
 # Interactive Essay
 A tool that allows students to work collaboratively to manipulate an essay to learn and thrive at essay structure. Students collaboratively edit the same essay while participating in discussion to determine the best placement for each paragraph.
 
@@ -12,14 +12,14 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 ### Open your essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.
 
-![How to part 1](/Assets/Images%20for%20Tools/InsteractiveEssay-Screenshot-1.jpg)
+![How to part 1](/Assets/ImagesForTools/InsteractiveEssay-Screenshot-1.jpg)
 
 ### Read the essay and reorganize it
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
 ### View history
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
-![How to pt 2](/Assets/Images%20for%20Tools/InsteractiveEssay-Screenshot-2.jpg)
+![How to pt 2](/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg)
 
 ### Add and delete paragraphs
 If students determine that a paragraph doesn’t fit, they can delete the paragraph block. If students determine that a paragraph is missing, they can type and submit a new paragraph block.
@@ -40,10 +40,10 @@ Once all team members are in agreement that the essay is complete, they simply n
 
 
 ### Process Map for Instructors
-![Essay Developer Map](/Assets/Images%20for%20Tools/InteractiveEssay-ExperienceMap-Developer.jpg)
+![Essay Developer Map](/Assets/ImagesForTools/InteractiveEssay-ExperienceMap-Developer.jpg)
 
 ### Process Map for Developers
-![Essay Instructor Map](/Assets/Images%20for%20Tools/InteractiveEssay-ExperienceMap-Instructor.jpg)
+![Essay Instructor Map](/Assets/ImagesForTools/InteractiveEssay-ExperienceMap-Instructor.jpg)
 
 ### Process Map for Students
-![Essay Student Map](/Assets/Images%20for%20Tools/InteractiveEssay-ExperienceMap-Students.jpg)
+![Essay Student Map](/Assets/ImagesForTools/InteractiveEssay-ExperienceMap-Students.jpg)
