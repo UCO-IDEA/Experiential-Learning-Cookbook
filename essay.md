@@ -12,6 +12,8 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 ### Open your essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.
 
+![How to part 1](/Assets/DigitalPoster/InsteractiveEssay-Screenshot-1.jpg)
+
 ### Read the essay and reorganize it
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
