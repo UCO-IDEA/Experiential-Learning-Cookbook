@@ -21,6 +21,8 @@ Each player makes one role-specific decision each round, making sure to communic
 ### Leader decides how to travel
 The leader sees the decisions each team member has made, communicates with the team to discuss what to do, and then submits their choice to determine if their team climbs up the mountain, stays at the current camp, or travels back down the mountain.
 
+![Forward Players Image](/Assets/DigitalPoster/Forward-Screenshot-3.jpg)
+
 ### Players assess their situation
 Once a new turn begins, all players will be taken to the progress report where they can see the result of their most recent choice, the location of each team member, and other basic information.
 
