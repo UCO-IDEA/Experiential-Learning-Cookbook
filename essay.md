@@ -19,6 +19,7 @@ Each group member then reads the existing essay, which is broken into blocks con
 
 ### View history
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
+![How to pt 2](/Assets/DigitalPoster/InsteractiveEssay-Screenshot-2.jpg)
 
 ### Add and delete paragraphs
 If students determine that a paragraph doesn’t fit, they can delete the paragraph block. If students determine that a paragraph is missing, they can type and submit a new paragraph block.
@@ -39,5 +40,7 @@ Once all team members are in agreement that the essay is complete, they simply n
 (WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 ### Process Map for Instructors
+![Essay Developer Map](/Assets/DigitalPoster/InteractiveEssay-ExperienceMap-Developer.jpg)
 
 ### Process Map for Developers
+![Essay Instructor Map](/Assets/DigitalPoster/InteractiveEssay-ExperienceMap-Instructor.jpg)
