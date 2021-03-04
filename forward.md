@@ -13,7 +13,7 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 ### Teams of four select their roles
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
 
-![Image for FWD](/Assets/Forward-Screenshot-2.PNG)
+![Image for FWD](/Assets/DigitalPoster/Forward-Screenshot-2%20(1)%20(1).jpg)
 
 ### Players make decisions
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
