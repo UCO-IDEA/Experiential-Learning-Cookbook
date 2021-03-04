@@ -6,7 +6,7 @@ A leadership simulation where teams of four work together and use their role-spe
 ## Concept
 Professor Trevor Cox came up with Forward for his Foundations of Organizational Leadership course. His goal was to take a role playing assignment generally done in person and turn it into an interactive leadership simulating video game.
 
-## **How it Works**
+## How it Works
 
 ![Image for Roles FWD](/Assets/ImagesForTools/Forward-Screenshot-1.jpg)
 
@@ -15,23 +15,27 @@ Each team member must select a different role, and can choose from medic, meteor
 
 ![Image for FWD](/Assets/ImagesForTools/Forward-Screenshot-2%20(1)%20(1).jpg)
 
-### Players make decisions
+### **Players make decisions**
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
 
-### Leader decides how to travel
+### **Leader decides how to travel**
 The leader sees the decisions each team member has made, communicates with the team to discuss what to do, and then submits their choice to determine if their team climbs up the mountain, stays at the current camp, or travels back down the mountain.
 
 ![Forward Players Image](/Assets/ImagesForTools/Forward-Screenshot-3.jpg)
 
-### Players assess their situation
+### **Players assess their situation**
 Once a new turn begins, all players will be taken to the progress report where they can see the result of their most recent choice, the location of each team member, and other basic information.
 
-### Learn, adapt, and climb
+### **Learn, adapt, and climb**
 When the next turn begins the cycle starts again as players attempt to work together to get as many team members to reach the top of the mountain as they can.
 
 ## Documentation
 **[Instructions PDF](https://bit.ly/3uajJQY)**
-**[Video Instructions](https://www.youtube.com/watch?v=PPqKYJ3dUsA)**
+
+**Video Instructions**
+
+* [How to Use Forward](https://www.youtube.com/watch?v=PPqKYJ3dUsA)
+
 
 ### Process Map for Developers
 ![FWD Developer Map](/Assets/ImagesForTools/Forward-ExperienceMap-Developer.jpg)

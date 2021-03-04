@@ -5,13 +5,13 @@
 ## Methodology
 Surveys were designed to measure the functionality and enjoyment of using the interactive tools as well as the learning experience and efficacy. Surveys were distributed to students as well as instructors to provide a basis of comparison and possible improvement. The surveys were designed to be short and easy to complete with few open response questions for ease of student completion as well as analysis. The first round of surveys were only sent to students who had used the innovative tool. In the future, surveys will also be sent to students who did not use the tool as a control group.
 
-## Tools
+## **Tools**
 * Google Forms for surveys
 * Google Sheets for responses.
 
 Google was used for the ease of recording responses to the same Google Sheet for the purposes of analysis. Instructors distributed the survey to students.
 
-## Example Questions
+## **Example Questions**
 1. *The instructions were clear and helpful.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
@@ -44,7 +44,7 @@ Response Options:
 
 10. *What else would you like to share?*
 
-## Survey Results
+## **Survey Results**
 
 ### Persuasive Speech Surveys:
 A survey that will be given to students who have used the initial version of the Persuasive Speech tool to collect feedback on how it worked, how they perceived the experience, and how they think it can be improved.

@@ -1,6 +1,6 @@
 # Project Ingredients
 
-## Process
+## **Process**
 
 ### Considerations
 
