@@ -41,7 +41,3 @@ When the next turn begins the cycle starts again as players attempt to work toge
 
 ### Process Map for Students
 ![FWD Student Map](/Assets/DigitalPoster/Forward-ExperienceMap-Student.png)
-
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
-
-# 
