@@ -1,5 +1,5 @@
 
-![Digital Poster Image](/Assets/DigitalPoster/DigitalPoster-Header.png =250x250)
+![Digital Poster Image](/Assets/DigitalPoster/DigitalPoster-Header.png)
 
 # Digital Poster
 
