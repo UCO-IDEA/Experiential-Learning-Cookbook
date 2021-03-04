@@ -34,7 +34,7 @@ When the next turn begins the cycle starts again as players attempt to work toge
 **[Video Instructions](https://www.youtube.com/watch?v=PPqKYJ3dUsA)**
 
 ### Process Map for Developers
-
+![FWD Developer Map](Assets/DigitalPoster/Forward-ExperienceMap-Developer.jpg)
 ### 
 
 ### 
