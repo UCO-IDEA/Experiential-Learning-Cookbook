@@ -10,4 +10,3 @@
    * Acted as a resource for faculty as they planned, implemented, enhanced, and assessed student learning
    * Promoted the teacher-scholar model of faculty excellence within UCO’s ethos of providing transformative learning opportunities for our students
 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)

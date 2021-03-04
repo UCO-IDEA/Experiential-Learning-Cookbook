@@ -163,7 +163,6 @@ Services |
    * Acted as a resource for faculty as they planned, implemented, enhanced, and assessed student learning
    * Promoted the teacher-scholar model of faculty excellence within UCO’s ethos of providing transformative learning opportunities for our students
 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 ![Digital Poster Title Map](DigitalPoster-ExperienceMap-Developer.PNG.zip)
 
@@ -207,16 +206,13 @@ The student then finalizes their poster presentation, receives a link to their w
 ### 
 
 ### 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
+
 
 ### Process Map for Instructors
 
-### 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 ### Process Map for Students
 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 # **Persuasive Speech **
 This tool allows the students to upload a speech and get tangible feedback from their peers. The audience members will use a voting feature embedded into the video player to let the instructor and student speakers know how persuasive they were.
@@ -250,12 +246,8 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 ### Process Map for Instructors
 
-### 
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 ### Process Map for Students
-
-(WARN_UNRECOGNIZED_ELEMENT: PAGE_BREAK)
 
 # Forward
 A leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-specific decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on-time.
