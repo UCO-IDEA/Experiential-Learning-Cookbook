@@ -1,5 +1,5 @@
 
-![Digital Poster Image](/Assets/DigitalPoster/DigitalPoster-Header.png)
+![Digital Poster Image](/Assets/Images%20for%20Tools/DigitalPoster-Header.png)
 
 # Digital Poster
 
@@ -7,7 +7,7 @@ This tool allows students to take their poster design and turn it into its own p
 
 ## **Concept**
 
-![Concept image](/Assets/DigitalPoster/DP%20Image%201.jpg)
+![Concept image](/Assets/Images%20for%20Tools/DigitalPoster-Screenshot-1.png)
 
 Professor Trevor Cox came up with Digital Poster for his Organizational Leadership Capstone course. His goal was to take the existing poster presentation assignment being done on actual poster paper and make it virtual.
 
@@ -18,7 +18,7 @@ A student inserts a link to the poster image that they created to serve as the b
 ### Add your content
 The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
 
-![Image of content](/Assets/DigitalPoster/DigitalPoster-Screenshot-2.png)
+![Image of content](/Assets/Images%20for%20Tools/DigitalPoster-Screenshot-2.png)
 
 ### Publish your poster
 The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, they can experience the poster presentation and explore it while allowing the poster to present itself.
@@ -36,12 +36,11 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Developers
 
-![Digital Poster Image Experience Map](/Assets/DigitalPoster/DigitalPoster-ExperienceMap-Developer.jpg)
-
+![Digital Poster Image Experience Map](/Assets/Images%20for%20Tools/DigitalPoster-ExperienceMap-Developer.jpg)
 ### Process Map for Instructors
 
-![Digital Poster Image Experience Map](/Assets/DigitalPoster/DigitalPoster-ExperienceMap-Instructor%20(2).jpg)
+![Digital Poster Image Experience Map](/Assets/Images%20for%20Tools/DigitalPoster-ExperienceMap-Instructor%20(2).jpg)
 
 ### Process Map for Students
 
-![Digital Poster Image Experience Map](/Assets/DigitalPoster/DigitalPoster-ExperienceMap-Student%20(1).jpg)
+![Digital Poster Image Experience Map](/Assets/Images%20for%20Tools/DigitalPoster-ExperienceMap-Student%20(1).jpg)
