@@ -7,7 +7,7 @@ This tool allows students to take their poster design and turn it into its own p
 
 ## **Concept**
 
-![Concept image](/Assets/DigitalPoster/DigitalPoster-Screenshot-1.png)
+![Concept image](/Assets/DigitalPoster/DP%20Image%201.jpg)
 
 Professor Trevor Cox came up with Digital Poster for his Organizational Leadership Capstone course. His goal was to take the existing poster presentation assignment being done on actual poster paper and make it virtual.
 
