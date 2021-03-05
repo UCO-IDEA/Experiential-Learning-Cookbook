@@ -32,7 +32,7 @@ The student then finalizes their poster presentation, receives a link to their w
 * [Create Poster Graphics](https://www.youtube.com/watch?v=k4n-gRexNM0&feature=youtu.be&ab_channel=CeCEIDEA)
 * [Edit Mode](https://www.youtube.com/watch?v=q88ZAkxwXNU&feature=youtu.be&ab_channel=CeCEIDEA)[	](https://www.youtube.com/watch?v=q88ZAkxwXNU&feature=youtu.be&ab_channel=CeCEIDEA)
 * [Preview Mode](https://www.youtube.com/watch?v=HcFy1pUPfAM&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Display your Poster](https://www.youtube.com/watch?v=HcFy1pUPfAM&feature=youtu.be&ab_channel=CeCEIDEA)
+* [Display your Poster](https://www.youtube.com/watch?v=Vd-aePfec1U)
 * [Visit a Classmates Poster](https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be)
 
 ### Process Map for Developers
