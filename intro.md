@@ -15,7 +15,7 @@ Develop four virtual experiential learning assignments to allow students to virt
 **[Trevor Cox](https://www3.uco.edu/centraldirectory/profiles/834701)**
 **Projects:** Digital Poster and Forward - Leadership Simulation
 
-**[Jennifer Foster](https://www3.uco.edu/centraldirectory/FSSearch.aspx?cmd=previous-search)**
+**[Jennifer Foster](https://www.uco.edu/cla/departments/mass-communication/faculty)**
 **Project:** Persuasive Speech
 
 **[Shay Rahm](https://www3.uco.edu/centraldirectory/profiles/3075)**
@@ -27,7 +27,7 @@ Develop four virtual experiential learning assignments to allow students to virt
 **Executive Director** for Excellence in
 Transformative Teaching and Learning
 
-**[Jarret Jobe](https://www3.uco.edu/centraldirectory/FSSearch.aspx?cmd=previous-search)**
+**[Jarret Jobe](https://www.uco.edu/cla/departments/mass-communication/faculty)**
 **Executive Director** of Student Leadership
 at University of Central Oklahoma
 
