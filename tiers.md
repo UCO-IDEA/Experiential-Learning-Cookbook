@@ -4,7 +4,7 @@ This system breaks experiential learning assignments up into three levels of tie
 
 Using the tier system will help universities set the amount of resources, time, personnel that they will need to create the assignment.
 
-## <center>Criteria
+## Criteria
 
 <br>
 
@@ -37,7 +37,7 @@ The number of tools that need to be developed or used to implement the assignmen
 
 <br>
 
-## <center>The Tiers for Our Assignments:
+## The Tiers for Our Assignments:
 
 <br>
 
