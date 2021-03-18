@@ -1,6 +1,6 @@
 # Project Ingredients
 
-## **Process Considerations**
+## Process Considerations
 
 * **Faculty**
    * Previous experience with online and/or virtual environments required
@@ -51,8 +51,7 @@
      * “I was skeptical at first, but...”
      * “I should have planned better for...”
      * “My students’ experiences and outcomes from virtual EL were...”
-* ## **Be open to change**
-
+*  **Be open to change**
    * The tiered system can not always be applied, for example:
    * Some assignments may not have a cheaper, less complex that already exists to build from, but instead requires it be created from scratch
 

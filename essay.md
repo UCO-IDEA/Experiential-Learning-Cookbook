@@ -7,29 +7,29 @@ A tool that allows students to work collaboratively to manipulate an essay to le
 
 Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience.
 
-# How it Works
+## How it Works
 
-### **Open your essay**
+### Open your Essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.
 
 ![How to part 1](/Assets/ImagesForTools/InsteractiveEssay-Screenshot-1.jpg)
 
-### **Read the essay and reorganize it**
+### Read the Essay and Reorganize It
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
-### **View history**
+### View History
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
 ![How to pt 2](/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg)
 
-### **Add and delete paragraphs**
+### Add and Delete Paragraphs
 If students determine that a paragraph doesn’t fit, they can delete the paragraph block. If students determine that a paragraph is missing, they can type and submit a new paragraph block.
 
-### **Call it complete**
+### Call it Complete
 Once all team members are in agreement that the essay is complete, they simply need to inform their professor.
 
 ## Documentation
 
-**[Instructions PDF](https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf)**
+[Instructions PDF](https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf)
 
 **Video Instructions**
 * [Open an Essay](https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA)
