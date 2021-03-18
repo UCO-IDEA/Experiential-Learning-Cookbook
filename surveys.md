@@ -49,20 +49,20 @@ Response Options:
 
 ## **Survey Results**
 
-### **Persuasive Speech Surveys:**
+### Persuasive Speech Surveys
 <br>
 A survey that will be given to students who have used the initial version of the Persuasive Speech tool to collect feedback on how it worked, how they perceived the experience, and how they think it can be improved.
 
 The first round of results indicated the persuasive essay tool was useful, but difficult to understand. Suggesting a “How to” video may be necessary upon its completion. The majority of students would choose to use the Persuasive Speech tool again.
 
-### **Digital Poster Surveys:**
+### Digital Poster Surveys
 <br>
 The instructor who took the survey overall believed that the digital poster was helpful, though it allowed the students to use far too many mediums and students found technical difficulties compared to Google slides. Half of the students who filled out surveys indicated they would prefer to use the Digital Poster again while others would prefer Google Slides or PowerPoint.
 <br>
 <br>
 
-### **Interactive Essay**
+### Interactive Essay Surveys
 No Responses yet.
 
-### **Forward**
+### Forward Surveys
 No Responses yet.
