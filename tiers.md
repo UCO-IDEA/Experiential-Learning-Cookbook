@@ -4,7 +4,9 @@ This system breaks experiential learning assignments up into three levels of tie
 
 Using the tier system will help universities set the amount of resources, time, personnel that they will need to create the assignment.
 
-## **Criteria**
+## <center>Criteria
+
+<br>
 
 **Technical Skills**
 The staff available with the needed abilities and knowledge to perform the required tasks.
@@ -13,7 +15,6 @@ The staff available with the needed abilities and knowledge to perform the requi
 The financial burden associated with completing the required tasks. Does anything need to be purchased? How much does it cost? What are the operational costs, such as software, servers, and production hours?
 
 **Time**
-
 The time required to plan, develop, test, evaluate, and maintain the assignment.
 
 **Complexity**
@@ -21,10 +22,11 @@ How difficult it is to achieve the desired result.
 
 **Tools**
 The number of tools that need to be developed or used to implement the assignment.
-#
 
-| **Tiers**
-**(Subject to Change)** |  |  |  | 
+<br>
+
+## <center>Project Tier Chart
+**(Subject to Change)**  |  |  |  | 
 | --- | --- | --- | --- |
 |  | **Tier 1** | **Tier 2** | **Tier 3** | 
 | **Technical Skill** | Low | Proficient | Expert | 
@@ -33,7 +35,12 @@ The number of tools that need to be developed or used to implement the assignmen
 | **Complexity** | Simple | Moderate | High | 
 | **Tools** | 0 - 1 | 2 - 3 | 4 + | 
 
-## The Tiers of our assignments:
+<br>
+
+## <center>The Tiers for Our Assignments:
+
+<br>
+
 * **Digital Poster** A tier 1 project due to the fact it is simple and had a time requirement under 10 hours
 * **Persuasive Speech** A tier 2 project due to its development time being in the 11-35 hour range
 * **Interactive Essay** A tier 2 project due to its development time being in the 11-35 hour range
