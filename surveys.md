@@ -13,35 +13,54 @@ Google was used for the ease of recording responses to the same Google Sheet for
 
 ## **Example Questions**
 <br>
+
 1. *The instructions were clear and helpful.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
+<br>
 
-2. *The Digital Poster was easy to use.*
+
+1. *The Digital Poster was easy to use.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
+
+<br>
 
 3. *Building a Digital Poster was enjoyable.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
 
+<br>
+
 4. *Interacting with other students’ Digital Poster presentations was a positive experience.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
+
+<br>
 
 5. *The Digital Poster tool improved my learning experience over a traditional assignment.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
 
+<br>
+
 6. *If given the option, I’d choose to use the Digital Poster tool again.*
 Response Options:
 1 (Strongly DIsagree) - 4 (Strongly Agree)
 
+<br>
+
 7. *What was your favorite part of the Digital Poster tool?*
+
+<br>
 
 8. *What was your least favorite part of the Digital Poster tool?*
 
-9. *Was there anything you wanted to do that the Digital Poster tool wouldn’t let you do?*
+<br>
+
+9.  *Was there anything you wanted to do that the Digital Poster tool wouldn’t let you do?*
+
+<br>
 
 10. *What else would you like to share?*
 
