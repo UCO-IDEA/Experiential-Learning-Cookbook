@@ -17,10 +17,14 @@ Students record themselves giving their speech. They then upload their video to 
 ![Speech Image](/Assets/ImagesForTools/PersuasiveSpeech-Screenshot-2.png)
 
 ### **View other student’s audience page**
+<br>
 Students visit their peers’ audience page which starts by telling them a topic and asking them to rate their initial opinion on the topic. The student watches the speech and then sees the same scale to give their final opinion on the topic.
+<br>
 
 ### **View your own presenter page**
 Students then visit their own presenter page to see tangible data on how persuasive their peers found their speech. Data is created by comparing initial opinions and final opinions.
+
+<br>
 
 ## Documentation
 
