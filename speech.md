@@ -5,9 +5,9 @@ This tool allows the students to upload a speech and get tangible feedback from 
 
 ## **Concept**
 
-![Speech Image](/Assets/ImagesForTools/Concept-Image.jpg)
-
 Professor Jennifer Foster Came up with Persuasive Speech for her course by the same title, Persuasive Speech. The goal was to recreate the in person experience of giving a speech and receiving tangible feedback in a virtual environment.
+
+![Speech Image](/Assets/ImagesForTools/Concept-Image.jpg)
 
 ## **How it Works**
 
