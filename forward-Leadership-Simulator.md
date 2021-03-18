@@ -6,7 +6,7 @@ A leadership simulation where teams of four work together and use their role-spe
 ## Concept
 Professor Trevor Cox came up with Forward for his Foundations of Organizational Leadership course. His goal was to take a role playing assignment generally done in person and turn it into an interactive leadership simulating video game.
 
-## How it Works
+### Team Roles
 
 ![Image for Roles FWD](/Assets/ImagesForTools/Forward-Screenshot-1.jpg)
 

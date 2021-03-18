@@ -7,7 +7,6 @@ A tool that allows students to work collaboratively to manipulate an essay to le
 
 Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience.
 
-## How it Works
 
 ### Open your Essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.
