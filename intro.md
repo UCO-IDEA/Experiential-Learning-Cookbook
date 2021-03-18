@@ -1,4 +1,4 @@
-# Intro to the Lumina Foundation Experiential Learning Assignments
+# Intro to the Experiential Learning Assignments
 
 ## Concept:
 
