@@ -6,14 +6,11 @@ A leadership simulation where teams of four work together and use their role-spe
 ## Concept
 Professor Trevor Cox came up with Forward for his Foundations of Organizational Leadership course. His goal was to take a role playing assignment generally done in person and turn it into an interactive leadership simulating video game.
 
-### Team Roles
+### Teams of four select their roles
 
 ![Image for Roles FWD](/Assets/ImagesForTools/Forward-Screenshot-1.jpg)
 
-### Teams of four select their roles
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
-
-![Image for FWD](/Assets/ImagesForTools/Forward-Screenshot-2%20(1)%20(1).jpg)
 
 ### Players make decisions
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.

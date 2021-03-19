@@ -13,7 +13,7 @@ Each group will be assigned a different existing essay. (Alternatively, this ass
 
 <br>
 
-![How to part 1](/Assets/ImagesForTools/Interactive%20Essay.jpg)
+![How to part 1](/Assets/ImagesForTools/Essay-for-Concept.jpg)
 
 ### Read the Essay and Reorganize It
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
