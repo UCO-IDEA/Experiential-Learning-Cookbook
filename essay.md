@@ -17,7 +17,7 @@ Each group member then reads the existing essay, which is broken into blocks con
 
 ### View History
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
-<img style='margin-bottom:20px;' align="right" width="300" height="250" src="Assets/ImagesForTools/Essay-for-Concept.jpg"/>
+<img style='margin-bottom:20px;' align="right" width="300" height="150" src=/Assets/ImagesForTools/Essay-for-Concept.jpg>
 
 
 ### Add and Delete Paragraphs
