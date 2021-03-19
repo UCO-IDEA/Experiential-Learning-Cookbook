@@ -5,7 +5,7 @@ A tool that allows students to work collaboratively to manipulate an essay to le
 
 ## Concept
 
-Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience. (<img style='margin-bottom:20px;' align="right" width="350" height="200" src="/Assets/ImagesForTools/Essay-for-Concept.jpg">)
+Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience. <img style='margin-bottom:20px;' align="right" width="350" height="200" src="/Assets/ImagesForTools/Essay-for-Concept.jpg"/>
 
 ### Open your Essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
@@ -17,7 +17,7 @@ Each group member then reads the existing essay, which is broken into blocks con
 
 ### View History
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
-<img style='margin-bottom:20px;' align="right" width="300" height="250" src="/Assets/ImagesForTools/InsteractiveEssay-Screenshot-1.jpg">
+<img style='margin-bottom:20px;' align="right" width="300" height="250" src="/Assets/ImagesForTools/InsteractiveEssay-Screenshot-1.jpg"/>
 
 
 ### Add and Delete Paragraphs
