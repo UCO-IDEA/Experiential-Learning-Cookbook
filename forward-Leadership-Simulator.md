@@ -38,7 +38,7 @@ When the next turn begins the cycle starts again as players attempt to work toge
 ![FWD Developer Map](/Assets/ImagesForTools/Forward-ExperienceMap-Developer.jpg)
 
 ### Process Map for Instructors
-![FWD Instructor Map](/Assets/ImagesForTools/Forward-ExperienceMap-Instructor.jpg)
+![FWD Instructor Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Instructor%20(2).jpg)
 
 ### Process Map for Students
-![FWD Student Map](/Assets/ImagesForTools/Forward-ExperienceMap-Student.png)
+![FWD Student Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Student%20(1).jpg)
