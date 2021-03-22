@@ -1,4 +1,4 @@
-# Intro to the Experiential Learning Assignments
+# Intro the Experiential Learning Assignments
 
 ## Concept:
 

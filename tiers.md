@@ -8,22 +8,21 @@ Using the tier system will help universities set the amount of resources, time, 
 
 <br>
 
-**Technical Skills**
+**Technical Skills:**
 The staff available with the needed abilities and knowledge to perform the required tasks.
 
-**Cost**
+**Cost:**
 The financial burden associated with completing the required tasks. Does anything need to be purchased? How much does it cost? What are the operational costs, such as software, servers, and production hours?
 
-**Time**
+**Time:**
 The time required to plan, develop, test, evaluate, and maintain the assignment.
 
-**Complexity**
+**Complexity:**
 How difficult it is to achieve the desired result.
 
-**Tools**
+**Tools:**
 The number of tools that need to be developed or used to implement the assignment.
 
-<br>
 
 ## <center>Project Tier Chart
 **(Subject to Change)**  |  |  |  | 
