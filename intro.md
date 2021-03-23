@@ -39,8 +39,6 @@ at University of Central Oklahoma
 
 The IDEA Team worked with the faculty and administration to create the products. This team of instructional technologists, developers, and data scientists designed, produced, and tested each project to ensure its quality and usefulness.
 
-Whether you're a student or faculty member looking for research and innovation support or a business looking for Innovation, Design, crafted Experiences, or develop Applications, you will find the Center for eLearning and Connected Environment’s IDEA Team to be an ideal partner in your ambitions.
-
 
 ## Technology Targets:
 
