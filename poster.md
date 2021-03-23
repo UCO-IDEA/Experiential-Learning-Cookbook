@@ -11,21 +11,17 @@ Professor Trevor Cox came up with Digital Poster for his Organizational Leadersh
 
 <br>
 
-![Poster Concept Image][1]
-
-[1]:https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Poster-Concept-image.jpg
+<img style='margin-bottom:20px;' align="right" width="350" height="200" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Poster-Concept-image.jpg">
 
 
 ### Upload your Poster
-Insert your poster image
-A student inserts a link to the poster image that they created to serve as the background for their poster presentation.
+Insert your poster
+imageA student inserts a link to the poster image that they created to serve as the background for their poster presentation.
 
 ### Add your content
 The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
 
-![Concept Annotation][2]
-
-[2]:https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/DigitalPoster-Screenshot-2.png
+<img style='margin-bottom:20px;' align="right" width="300" height="200" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/DigitalPoster-Screenshot-2.png">
 
 ### Publish your poster
 The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, they can experience the poster presentation and explore it while allowing the poster to present itself.
