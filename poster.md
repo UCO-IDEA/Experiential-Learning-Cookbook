@@ -23,7 +23,9 @@ A student inserts a link to the poster image that they created to serve as the b
 ### Add your content
 The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
 
-![Image of content](/Assets/ImagesForTools/DigitalPoster-Screenshot-2.png)
+![Concept Annotation][2]
+
+[2]:https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/DigitalPoster-Screenshot-2.png
 
 ### Publish your poster
 The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, they can experience the poster presentation and explore it while allowing the poster to present itself.

@@ -5,8 +5,10 @@ A tool that allows students to work collaboratively to manipulate an essay to le
 
 ## Concept
 
-Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience. <img style='margin-bottom:20px;' align="right" width="350" height="200" src="/Assets/ImagesForTools/Essay-for-Concept.jpg"/>
+Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience. 
 
+
+<img align="right" width="400" height="200" src= "https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Essay-for-Concept.jpg">
 ### Open your Essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
 
@@ -16,8 +18,7 @@ Each group will be assigned a different existing essay. (Alternatively, this ass
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
 ### View History
-Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
-<img style='margin-bottom:20px;' align="right" width="300" height="150" src=/Assets/ImagesForTools/Essay-for-Concept.jpg>
+Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.<img style='margin-bottom:20px;' align="right" width="300" height="200" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
 
 
 ### Add and Delete Paragraphs

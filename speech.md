@@ -7,12 +7,16 @@ This tool allows the students to upload a speech and get tangible feedback from 
 
 Professor Jennifer Foster Came up with Persuasive Speech for her course by the same title, Persuasive Speech. The goal was to recreate the in person experience of giving a speech and receiving tangible feedback in a virtual environment.
 
-![Speech Image](/Assets/ImagesForTools/Speech-concept-image.jpg)
+![Speech Concept Image][1]
+
+[1]:https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Speech-concept-image.jpg
 
 ### **Record and upload a speech**
 Students record themselves giving their speech. They then upload their video to YouTube to host the video. Next they enter their YouTube link into Persuasive Speech, which will create a presenter page and an audience page.
 
-![Speech Image](/Assets/ImagesForTools/PersuasiveSpeech-Screenshot-2.png)
+![Speech Image][2]
+
+[2]:https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Persuasivespeechtoolimage.JPG
 
 ### **View other student’s audience page**
 <br>
