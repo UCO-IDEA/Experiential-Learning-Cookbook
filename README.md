@@ -10,6 +10,7 @@
 1. [Interactive Essay](essay.md)
 1. [How it Works](howItWorks.md)
 1. [Survey Results](surveys.md)
+2. [Marketing Materials](marketing.md)
 
 
 
