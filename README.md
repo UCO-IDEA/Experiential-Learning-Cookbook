@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Intro to the Lumina Foundation Experiential Learning Assignment](intro.md)
+1. [Intro to the Experiential Learning Assignment](intro.md)
 1. [Project Ingredient](ingredients.md)
 1. [The Tier System](tiers.md)
 1. [Expected Outcome Assessment](outcomes.md)
