@@ -6,8 +6,6 @@ Using the tier system will help universities set the amount of resources, time, 
 
 ## Criteria
 
-<br>
-
 **Technical Skills:**
 The staff available with the needed abilities and knowledge to perform the required tasks.
 
@@ -24,7 +22,7 @@ How difficult it is to achieve the desired result.
 The number of tools that need to be developed or used to implement the assignment.
 
 
-## <center>Project Tier Chart
+## <center>Tiers by Resources Required
 
 **(Subject to Change)** |  |  |  | 
 | --- | --- | --- | --- |

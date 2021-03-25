@@ -1,4 +1,4 @@
-# Intro the Experiential Learning Assignments
+# The Experiential Learning Assignments
 
 ## Concept:
 
@@ -27,7 +27,7 @@ Develop four virtual experiential learning assignments to allow students to virt
 **Executive Director** for Excellence in
 Transformative Teaching and Learning
 
-**[Jarret Jobe](https://www.uco.edu/cla/departments/mass-communication/faculty)**
+**[Jarret Jobe](https://www.uco.edu/student-resources/ce/student-leadership)**
 **Executive Director** of Student Leadership
 at University of Central Oklahoma
 
