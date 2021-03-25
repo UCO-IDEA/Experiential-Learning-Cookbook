@@ -17,8 +17,8 @@ Professor Trevor Cox came up with Digital Poster for his Organizational Leadersh
 
 
 ### Upload your Poster
-Insert your poster
-imageA student inserts a link to the poster image that they created to serve as the background for their poster presentation.
+A student inserts a link to the poster image that they created to serve as the background for their poster presentation.
+
 
 ### Add your content
 The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
