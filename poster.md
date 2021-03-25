@@ -11,7 +11,9 @@ Professor Trevor Cox came up with Digital Poster for his Organizational Leadersh
 
 <br>
 
-<img style='margin-bottom:20px;' align="right" width="350" height="200" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Poster-Concept-image.jpg">
+## How It Works
+
+<img style='margin-bottom:20px;' align="right" width="500" height="200" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Poster-Concept-image.jpg">
 
 
 ### Upload your Poster
