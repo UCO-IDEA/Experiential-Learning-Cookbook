@@ -1,6 +1,6 @@
 # Expected Outcome Assessment
 
-### **Were these outcomes obtained?**
+ ## Were these outcomes obtained?
 
 * Provided a collaborative experience for faculty and students
 * Engineered an experience with opportunities for faculty to mentor students
