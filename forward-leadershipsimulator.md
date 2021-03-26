@@ -10,7 +10,7 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 ### Teams of four select their roles
 
-<img style='margin-bottom:20px;' align="center" width="800" height="400" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Forward-Screenshot-1.jpg">
+<img style='margin-bottom:20px;' align="center" width="800" height="500" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Forward-Screenshot-1.jpg">
 
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
 
