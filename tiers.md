@@ -22,9 +22,8 @@ How difficult it is to achieve the desired result?
 The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students? What kind?
 
 
-## <center>Tiers by Resources Required
-
-**<center>(Subject to Change)**
+### <center>Tiers by Resources Required
+<center>(Subject to Change)
 
  |  | **Tier 1** | **Tier 2** | **Tier 3** | 
 | --- | --- | --- | --- |
