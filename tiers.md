@@ -19,12 +19,12 @@ Time is required to plan, develop, test, evaluate, and maintain the assignment. 
 How difficult it is to achieve the desired result?
 
 **Tools:**
-The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students? What kind?
+The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students? 
 
 
 ## <center>Tiers by Resources Required
 
-<center>(Subject to Change)
+**<center>(Subject to Change)**
 
  |  | **Tier 1** | **Tier 2** | **Tier 3** | 
 | --- | --- | --- | --- |
