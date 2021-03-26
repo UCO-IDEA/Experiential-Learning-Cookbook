@@ -20,7 +20,7 @@ Each player makes one role-specific decision each round, making sure to communic
 ### Leader decides how to travel
 The leader sees the decisions each team member has made, communicates with the team to discuss what to do, and then submits their choice to determine if their team climbs up the mountain, stays at the current camp, or travels back down the mountain.
 
-<img style='margin-bottom:20px;' align="right" width="500" height="250" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Forward-Screenshot-2%20(1)%20(1).jpg">
+<img style='margin-bottom:40px;' align="right" width="500" height="250" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Forward-Screenshot-2%20(1)%20(1).jpg">
 
 ### Players assess their situation
 Once a new turn begins, all players will be taken to the progress report where they can see the result of their most recent choice, the location of each team member, and other basic information.
