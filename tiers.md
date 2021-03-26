@@ -32,7 +32,7 @@ The number of tools that need to be developed or used to implement the assignmen
 | **Cost** | Free to low | Subscription Services | Enterprise Services | 
 | **Time** | 0 - 10 hours | 11 - 35 hours | 36+ Hours | 
 | **Complexity** | Simple | Moderate | High | 
-| **Tools** | 0 - 1 | 2 - 3 | 4 + | 
+| **Tools** | 0 - 1 | 2 - 3 | 4 + |
 
 ## <center> The Tiers of Our Assignments 
 
