@@ -14,7 +14,7 @@ Professor Jennifer Foster Came up with Persuasive Speech for her course by the s
 ### **Record and upload a speech**
 Students record themselves giving their speech. They then upload their video to YouTube to host the video. Next they enter their YouTube link into Persuasive Speech, which will create a presenter page and an audience page.
 
-<img style='margin-bottom:20px;' align="center" width="800" height="550" src="/Assets/ImagesForTools/PersuasiveSpeech-Screenshot-1.png">
+
 
 ### **View other student’s audience page**
 <br>
