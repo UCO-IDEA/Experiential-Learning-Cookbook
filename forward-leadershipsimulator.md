@@ -1,4 +1,4 @@
-![Forward Image](/Assets/ImagesForTools/Forward-Header(2).jpg)
+<img style='margin-bottom:20px;' align="center" width="500" height="400" src= "https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Forward-Header(2).jpg">
 
 # Forward - Leadership Simulator
 A leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-specific decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on-time.
