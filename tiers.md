@@ -34,7 +34,7 @@ The number of tools that need to be developed or used to implement the assignmen
 | **Complexity** | Simple | Moderate | High | 
 | **Tools** | 0 - 1 | 2 - 3 | 4 + |
 
-### The Tiers of Our Assignments 
+### <center>The Tiers of Our Assignments 
 
 **Digital Poster:** 
   A tier 1 project due to the fact it is simple and had a time requirement under 10 hours
