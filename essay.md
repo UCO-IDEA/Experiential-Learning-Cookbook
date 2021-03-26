@@ -11,7 +11,7 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 
 ##How It Works
 
-<img align="right" width="500" height="300" src= "C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\ImagesForTools\NewCaptureImage.JPG  ">
+<img align="center" width="800" height="500" src= "C:\Users\smelher\Documents\ExperientialLearningCookbook\Assets\ImagesForTools\NewCaptureImage.JPG  ">
 ### Open your Essay
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
 
@@ -23,7 +23,7 @@ Each group member then reads the existing essay, which is broken into blocks con
 ### View History
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
 
-<img style='margin-bottom:20px;' align="right" width="500" height="350" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
+<img style='margin-bottom:20px;' align="center" width="800" height="500" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
 
 
 ### Add and Delete Paragraphs
