@@ -22,7 +22,7 @@ How difficult it is to achieve the desired result?
 The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students? 
 
 
-## <center>Tiers by Resources Required
+### <center>Tiers by Resources Required
 
 <center> (Subject to Change)
 
