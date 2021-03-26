@@ -1,14 +1,14 @@
 # The Experiential Learning Assignments
 
-## Concept:
+## Concept
 
 Create a Cookbook to serve as a guide for designing, implementing, and assessing virtual experiential learning assignments in order to increase student access to quality experiential learning material.
 
-## Project Plan:
+## Project Plan
 
 Develop four virtual experiential learning assignments to allow students to virtually experience projects that were previously only possible in person. The assignments focus on allowing students to virtually collaborate to build and restructure essays, receive tangible feedback on persuasive speeches, turn their paper presentation poster into a robust online presentation, and simulate first-hand experience of what it is like to lead a team on a dangerous adventure.
 
-## Personnel:
+## Personnel
 
 ### Faculty
 
@@ -40,7 +40,7 @@ at University of Central Oklahoma
 The IDEA Team worked with the faculty and administration to create the products. This team of instructional technologists, developers, and data scientists designed, produced, and tested each project to ensure its quality and usefulness.
 
 
-## Technology Targets:
+## Technology Targets
 
 * A platform-agnostic approach to allow compatibility with various Learning Management Systems
 * Use of open-source technology to increase reproducibility, when possible
