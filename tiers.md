@@ -22,9 +22,9 @@ How difficult it is to achieve the desired result?
 The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students? 
 
 
-### <center>Tiers by Resources Required
+## <center>Tiers by Resources Required
 
-<center> (Subject to Change)
+ ### <center> (Subject to Change)
 
 |  | **Tier 1** | **Tier 2** | **Tier 3** | 
 | --- | --- | --- | --- |
@@ -34,13 +34,16 @@ The number of tools that need to be developed or used to implement the assignmen
 | **Complexity** | Simple | Moderate | High | 
 | **Tools** | 0 - 1 | 2 - 3 | 4 + |
 
-## <center> The Tiers of Our Assignments 
+### <center> The Tiers of Our Assignments 
 
-  **Digital Poster:** 
+**Digital Poster:** 
   A tier 1 project due to the fact it is simple and had a time requirement under 10 hours
+
 **Persuasive Speech:** 
 A tier 2 project due to its development time being in the 11-35 hour range
+
 **Interactive Essay:** 
 A tier 2 project due to its development time being in the 11-35 hour range
+
 **Forward:**
  A tier 3 project due to its development time of 36+ hours
