@@ -24,7 +24,7 @@ The number of tools that need to be developed or used to implement the assignmen
 ## Tiers by Resources Required
 
 |  | **Tier 1** | **Tier 2** | **Tier 3** |
-| --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: |
 | **Technical Skill** | Low | Proficient | Expert |
 | **Cost** | Free to low | Subscription Services | Enterprise Services |
 | **Time** | 0 - 10 hours | 11 - 35 hours | 36+ Hours |
