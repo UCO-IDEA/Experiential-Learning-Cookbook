@@ -19,11 +19,9 @@ Time is required to plan, develop, test, evaluate, and maintain the assignment. 
 How difficult it is to achieve the desired result?
 
 **Tools:**
-The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students?
+The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students?</br></br>
 
-</br>
-
-### <center>Tiers by Resources Required
+## Tiers by Resources Required
 
 |  | **Tier 1** | **Tier 2** | **Tier 3** |
 | --- | --- | --- | --- |
@@ -32,9 +30,10 @@ The number of tools that need to be developed or used to implement the assignmen
 | **Time** | 0 - 10 hours | 11 - 35 hours | 36+ Hours |
 | **Complexity** | Simple | Moderate | High |
 | **Tools** | 0 - 1 | 2 - 3 | 4 + |
+
 </br>
 
-## <left> The Tiers of Our Assignments
+## The Tiers of Our Assignments
 
 **Digital Poster:**
   A tier 1 project due to the fact it is simple and had a time requirement under 10 hours.
