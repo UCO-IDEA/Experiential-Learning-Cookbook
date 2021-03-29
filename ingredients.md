@@ -1,6 +1,6 @@
 # Project Ingredients
 
-### Process Considerations
+### Process Considerations.
 
 * Faculty
    * Previous experience with online and/or virtual environments required
