@@ -1,18 +1,19 @@
 # Table of Contents
 
 1. [Intro to the Experiential Learning Assignment](intro.md)
-1. [Project Ingredients](ingredients.md)
-1. [The Tier System](tiers.md)
-1. [Expected Outcome Assessment](outcomes.md)
-1. [Digital Poster](poster.md)
-1. [Persuasive Speech](speech.md)
-1. [Forward - Leadership Simulator](forward-leadershipsimulator.md)
-1. [Interactive Essay](essay.md)
-1. [How it Works](howitworks.md)
-1. [Survey Results](surveys.md)
-1. [Marketing](marketing.md)
-1. [Contact Information](contact-information.md)
-1. [Faculty Review](faculty-review.md)
+2. [Project Ingredients](ingredients.md)
+3. [The Tier System](tiers.md)
+4. [Expected Outcome Assessment](outcomes.md)
+5. [Digital Poster](poster.md)
+6. [Persuasive Speech](speech.md)
+7. [Forward - Leadership Simulator](forward-leadershipsimulator.md)
+8. [Interactive Essay](essay.md)
+9. [How it Works](howitworks.md)
+10. [Survey Results](surveys.md)
+11. [Faculty Review](faculty-review.md)
+12. [Marketing](marketing.md)
+13. [Contact Information](contact-information.md)
+
 
 
 
