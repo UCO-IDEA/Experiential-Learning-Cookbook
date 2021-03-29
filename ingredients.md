@@ -30,7 +30,7 @@
   * Test the assignments frequently with faculty and students
 * Create critical paths for functional success and severe failures
   * Determine the sequence of dependent tasks that form the straightest route to success
-  * Then determine the point at which would be determined failure
+  * Then determine the point at which would be considered failure
 * SMART goals
   * Set goals that are Specific, Measurable, Attainable, Relevant, and Time-based
 * Review costs and resources
@@ -41,13 +41,13 @@
   * What should the student learn?
   * How should it make the students feel?
   
-**Empathy research**
+**Empathy Research**
 
 * Experience mapping
   * Create separate thought process maps that illustrate how students, faculty, and developers will experience the assignment
   * Use these maps to determine the sequence of events
 
-**Do Not Let Technology be a Barrier**
+**Do Not Let Technology Be a Barrier**
 
 * Align the assignment with the technology’s strengths
 * Virtualize hands-on activities
