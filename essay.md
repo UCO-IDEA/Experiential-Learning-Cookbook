@@ -46,5 +46,3 @@ Once all team members are in agreement that the essay is complete, they simply n
 * <a href="https://www.youtube.com/watch?v=tcqlnx59gXQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Communicate with your Team</b></a>
 * <a href="https://www.youtube.com/watch?v=GS1y2q0y2Dc&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Save an Essay</b></a>
 * <a href="https://www.youtube.com/watch?v=mnk1w3mOr0E&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Repeat and Submit</b></a>
-
-### Process Maps

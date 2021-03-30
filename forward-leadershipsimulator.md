@@ -44,5 +44,3 @@ When the next turn begins the cycle starts again as players attempt to work toge
 **Video Instructions**
 
 * <a href="https://www.youtube.com/watch?v=PPqKYJ3dUsA" target="_blank"><b>How to Use Forward</b></a>
-
-### Process Maps

@@ -39,5 +39,3 @@ The student then finalizes their poster presentation, receives a link to their w
 * <a href="https://www.youtube.com/watch?v=HcFy1pUPfAM&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Preview Mode</b></a>
 * <a href="https://www.youtube.com/watch?v=Vd-aePfec1U" target="_blank"><b>Display your Poster</b></a>
 * <a href="https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be" target="_blank"><b>Visit a Classmates Poster</b></a>
-
-### Process Maps

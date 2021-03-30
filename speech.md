@@ -36,5 +36,3 @@ Students then visit their own presenter page to see tangible data on how persuas
 * <a href="https://www.youtube.com/watch?v=vZBq4oX5ccw&feature=youtu.be" target="_blank"><b>Speech Set Up</b></a>
 * <a href="https://www.youtube.com/watch?v=DSrfVEPtjEs&feature=youtu.be" target="_blank"><b>Visit Classmates Videos</b></a>
 * <a href="https://www.youtube.com/watch?v=xMyM17cLEA4&feature=youtu.be" target="_blank"><b>Monitor Responses</b></a>
-
-### Process Maps

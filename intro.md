@@ -42,7 +42,3 @@ The University of Central Oklahoma gratefully acknowledges NASPA and Lumina Foun
 * Use of open-source technology to increase reproducibility, when possible
 * Technical capacity requirements for designing and building virtual experiential learning assignments
   * Tiered examples included to assist in matching each institution’s technical capacity with their proper variation
-
-## Technology Targets
-
- The University of Central Oklahoma gratefully acknowledges NASPA and Lumina Foundation for their support of the project, "Cost-Saving Innovations", that resulted in this Cookbook.
