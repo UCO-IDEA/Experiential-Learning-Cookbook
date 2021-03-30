@@ -1,6 +1,6 @@
 # Contact Us
 
-## University of Oklahoma
+### University of Oklahoma
 
 ### IDEA Team
 
