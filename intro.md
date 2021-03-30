@@ -32,9 +32,17 @@ at University of Central Oklahoma
 
 The IDEA Team worked with the faculty and administration to create the products. This team of instructional technologists, developers, and data scientists designed, produced, and tested each project to ensure its quality and usefulness.
 
+<a href="https://www.naspa.org/home" target="_blank"><b>NASPA</b></a> and <a href="https://www.luminafoundation.org/" target="_blank"><b>Lumina Foundation</b></a>
+
+The University of Central Oklahoma gratefully acknowledges NASPA and Lumina Foundation for their support of the project, "Cost-Saving Innovations", that resulted in this Cookbook.
+
 ## Technology Targets
 
 * A platform-agnostic approach to allow compatibility with various Learning Management Systems
 * Use of open-source technology to increase reproducibility, when possible
 * Technical capacity requirements for designing and building virtual experiential learning assignments
   * Tiered examples included to assist in matching each institution’s technical capacity with their proper variation
+
+## Technology Targets
+
+ The University of Central Oklahoma gratefully acknowledges NASPA and Lumina Foundation for their support of the project, "Cost-Saving Innovations", that resulted in this Cookbook.
