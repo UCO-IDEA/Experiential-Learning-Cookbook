@@ -45,14 +45,4 @@ When the next turn begins the cycle starts again as players attempt to work toge
 
 * <a href="https://www.youtube.com/watch?v=PPqKYJ3dUsA" target="_blank"><b>How to Use Forward</b></a>
 
-### Process Map for Developers
-
-![FWD Developer Map](/Assets/ImagesForTools/Forward-ExperienceMap-Developer.jpg)
-
-### Process Map for Instructors
-
-![FWD Instructor Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Instructor%20(2).jpg)
-
-### Process Map for Students
-
-![FWD Student Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Student%20(1).jpg)
+### Process Maps

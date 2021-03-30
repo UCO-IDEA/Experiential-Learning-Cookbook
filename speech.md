@@ -37,16 +37,4 @@ Students then visit their own presenter page to see tangible data on how persuas
 * <a href="https://www.youtube.com/watch?v=DSrfVEPtjEs&feature=youtu.be" target="_blank"><b>Visit Classmates Videos</b></a>
 * <a href="https://www.youtube.com/watch?v=xMyM17cLEA4&feature=youtu.be" target="_blank"><b>Monitor Responses</b></a>
 
-### Process Map for Developers
-
-![Process map for Developers](/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Developer.jpg)
-
-### Process Map for Instructors
-
-<a href="/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Instructor.jpg" target="_blank">![Process map for Instructors](https://uco-idea.github.io/ExperientialLearningCookbook/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Instructor.jpg)</a>
-
-### Process Map for Students
-
-![Process Map for Students](/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Student-Presenting.jpg)
-
-![Process Map for Students part 2](/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Student-ViewingVideos.jpg)
+### Process Maps

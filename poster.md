@@ -40,14 +40,4 @@ The student then finalizes their poster presentation, receives a link to their w
 * <a href="https://www.youtube.com/watch?v=Vd-aePfec1U" target="_blank"><b>Display your Poster</b></a>
 * <a href="https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be" target="_blank"><b>Visit a Classmates Poster</b></a>
 
-### Process Map for Developers
-
-<a href="/Assets/ImagesForTools/Developer.png" target="_blank">![Digital Poster Image Experience Map](https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Developer.png)</a>
-
-### Process Map for Instructors
-
-![Digital Poster Image Experience Map](Assets\ImagesForTools\DigitalPoster-ExperienceMap-Developer.jpg)
-
-### Process Map for Students
-
-![Digital Poster Image Experience Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Student%20(1).jpg)
+### Process Maps
