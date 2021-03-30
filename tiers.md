@@ -7,13 +7,19 @@ Using the tier system will help universities set the amount of resources, time, 
 ## Criteria
 
 **Technical Skills:**
-The staff available with the needed abilities and knowledge to perform the required tasks.
+The level of abilities and knowledge needed by staff to perform the required tasks.
 
 **Cost:**
 The financial burden associated with completing the required tasks. Does anything need to be purchased? How much does it cost? What are the operational costs, such as software, servers, and production hours?
 
-**Time:**
-Time is required to plan, develop, test, evaluate, and maintain the assignment. Does your personell have the capacity for this?
+**Specialists:**
+The number of staff with abilities and knowledge needed to perform the required tasks.
+
+**Investment Time:**
+The time required to research and plan the assignment.
+
+**Production Time:**
+The time required to develop, test, evaluate, and maintain the assignment. Does your personell have the capacity for this?
 
 **Complexity:**
 How difficult it is to achieve the desired result?
@@ -27,7 +33,7 @@ The number of tools that need to be developed or used to implement the assignmen
 | :--- | :---: | :---: | :---: |
 | **Technical Skill** | Low | Proficient | Expert |
 | **Cost** | Free to low | Subscription Services | Enterprise Services |
-| **Specialist** | 0 - 1 | 2 - 3 | 4 + |
+| **Specialists** | 0 - 1 | 2 - 3 | 4 + |
 | **Investment Time (hrs)** | 0 - 10 | 11 - 35 | 36 + |
 | **Production Time (hrs)** | 0 - 35 | 36 - 100 | 101 + |
 | **Complexity** | Simple | Moderate | High |
@@ -59,7 +65,7 @@ The number of tools that need to be developed or used to implement the assignmen
 
 ### Interactive Essay
 
-|  | **Tier 1** |
+|  | **Tier 2** |
 | :--- | :---: |
 | **Technical Skill** | Proficient |
 | **Cost** | Free |
@@ -71,7 +77,7 @@ The number of tools that need to be developed or used to implement the assignmen
 
 ### Forward - Leadership Simulation
 
-|  | **Tier 1** |
+|  | **Tier 3** |
 | :--- | :---: |
 | **Technical Skill** | Proficient |
 | **Cost** | Enterprise Services |

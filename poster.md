@@ -9,16 +9,12 @@ This tool allows students to take their poster design and turn it into its own p
 
 Professor Trevor Cox came up with Digital Poster for his Organizational Leadership Capstone course. His goal was to take the existing poster presentation assignment being done on actual poster paper and make it virtual.
 
-<br>
-
 ## How It Works
 
-<img style='margin-bottom:20px;' align="center" width="800" height="500" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Digitalposterscreenshot11.jpg">
-
+<img style='margin-bottom:20px; margin-left:20px' align="right" width="400" height="322" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Digitalposterscreenshot11.jpg">
 
 ### Upload your Poster
 A student inserts a link to the poster image that they created to serve as the background for their poster presentation.
-
 
 ### Add your content
 The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
