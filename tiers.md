@@ -19,7 +19,7 @@ Time is required to plan, develop, test, evaluate, and maintain the assignment. 
 How difficult it is to achieve the desired result?
 
 **Tools:**
-The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students?</br></br>
+The number of tools that need to be developed or used to implement the assignment. How many tools will be useful for students?
 
 ## Tiers by Resources Required
 
@@ -27,22 +27,56 @@ The number of tools that need to be developed or used to implement the assignmen
 | :--- | :---: | :---: | :---: |
 | **Technical Skill** | Low | Proficient | Expert |
 | **Cost** | Free to low | Subscription Services | Enterprise Services |
-| **Time** | 0 - 10 hours | 11 - 35 hours | 36+ Hours |
+| **Specialist** | 0 - 1 | 2 - 3 | 4 + |
+| **Investment Time (hrs)** | 0 - 10 | 11 - 35 | 36 + |
+| **Production Time (hrs)** | 0 - 35 | 36 - 100 | 101 + |
 | **Complexity** | Simple | Moderate | High |
 | **Tools** | 0 - 1 | 2 - 3 | 4 + |
 
-</br>
+### Digital Poster
 
-## The Tiers of Our Assignments
+|  | **Tier 1** |
+| :--- | :---: |
+| **Technical Skill** | Low |
+| **Cost** | Free |
+| **Specialist** | 0 |
+| **Investment Time (hrs)** | 3 |
+| **Production Time (hrs)** | 40 |
+| **Complexity** | Simple |
+| **Tools** | 1 |
 
-**Digital Poster:**
-  A tier 1 project due to the fact it is simple and had a time requirement under 10 hours.
+### Persuasive Speech
 
-**Persuasive Speech:**
-A tier 2 project due to its development time being in the 11-35 hour range.
+|  | **Tier 1** |
+| :--- | :---: |
+| **Technical Skill** | Low |
+| **Cost** | Free |
+| **Specialist** | 1 |
+| **Investment Time (hrs)** | 3 |
+| **Production Time (hrs)** | 40 |
+| **Complexity** | Simple |
+| **Tools** | 0 |
 
-**Interactive Essay:**
-A tier 2 project due to its development time being in the 11-35 hour range.
+### Interactive Essay
 
-**Forward:**
- A tier 3 project due to its development time of 36+ hours.
+|  | **Tier 1** |
+| :--- | :---: |
+| **Technical Skill** | Proficient |
+| **Cost** | Free |
+| **Specialist** | 1 |
+| **Investment Time (hrs)** | 3 |
+| **Production Time (hrs)** | 80 |
+| **Complexity** | Moderate |
+| **Tools** | 0 |
+
+### Forward - Leadership Simulation
+
+|  | **Tier 1** |
+| :--- | :---: |
+| **Technical Skill** | Proficient |
+| **Cost** | Enterprise Services |
+| **Specialist** | 4 |
+| **Investment Time (hrs)** | 1 |
+| **Production Time (hrs)** | 3,025 |
+| **Complexity** | Extremely High |
+| **Tools** | 2 |
