@@ -11,7 +11,7 @@ Professor Trevor Cox came up with Digital Poster for his Organizational Leadersh
 
 ## How It Works
 
-<img style='margin-bottom:20px; margin-left:20px' align="right" width="400" height="322" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Digitalposterscreenshot11.jpg">
+<img style="float: right;" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Digitalposterscreenshot11.jpg=400x">
 
 ### Upload your Poster
 A student inserts a link to the poster image that they created to serve as the background for their poster presentation.
