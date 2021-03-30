@@ -43,7 +43,7 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 ### Process Map for Instructors
 
-![Process map for Instructors](/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Instructor.jpg)
+<a href="/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Instructor.jpg" target="_blank">![Process map for Instructors](https://uco-idea.github.io/ExperientialLearningCookbook/Assets/ImagesForTools/PersuasiveSpeech-ExperienceMap-Instructor.jpg)</a>
 
 ### Process Map for Students
 
