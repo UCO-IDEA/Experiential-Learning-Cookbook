@@ -11,8 +11,9 @@
 9. [How it Works](Howitworks.md)
 10. [Survey Results](surveys.md)
 11. [Faculty Reflections](faculty-review.md)
-12. [Marketing](marketing.md)
-13. [Contact Information](contact-information.md)
+12. [Known Issues](knownIssues.md)
+13. [Marketing](marketing.md)
+14. [Contact Information](contact-information.md)
 
 
 
