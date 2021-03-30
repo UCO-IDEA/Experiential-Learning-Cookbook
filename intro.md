@@ -12,8 +12,7 @@ Develop four virtual experiential learning assignments to allow students to virt
 
 ### Faculty
 
-**[Trevor Cox](https://www3.uco.edu/centraldirectory/profiles/834701)**
-**Projects:** Digital Poster and Forward - Leadership Simulation
+<a href="https://www3.uco.edu/centraldirectory/profiles/834701" target="_blank"><b>Trevor Cox</b></a> **Projects:** Digital Poster and Forward - Leadership Simulation
 
 **[Jennifer Foster](https://www.uco.edu/cla/departments/mass-communication/faculty)**
 **Project:** Persuasive Speech
