@@ -10,7 +10,7 @@
 8. [Interactive Essay](essay.md)
 9. [How it Works](howitworks.md)
 10. [Survey Results](surveys.md)
-11. [Faculty Review](faculty-review.md)
+11. [Faculty Reflections](faculty-review.md)
 12. [Marketing](marketing.md)
 13. [Contact Information](contact-information.md)
 
