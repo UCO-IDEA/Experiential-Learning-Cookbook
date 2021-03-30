@@ -4,5 +4,5 @@
 
 ### IDEA Team
 
-elearning@uco.edu </br>
+elearning@uco.edu 
 (405) 974-2420
