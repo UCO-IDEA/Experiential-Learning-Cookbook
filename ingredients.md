@@ -4,9 +4,9 @@
 
 **Faculty**
 
-* Previous experience with online and/or virtual environments required
-* They should have ideas for developing good virtual experiential learning assignments
-* They should structure assignments around a virtual experiential learning activity
+* Faculty should have previous experience with online and/or virtual environments required
+* Faculty should have ideas for developing good virtual experiential learning assignments
+* Faculty should structure assignments around a virtual experiential learning activity
   
 **Logistics**
 
@@ -37,7 +37,7 @@
   * Determine your level of technical skills, budget, timeframe, and access to the necessary tools
   * Ask the critical questions
 * What are the goals and objectives of the assignment?
-  * What’s important to the Instructor?
+  * What’s important to the instructor?
   * What should the student learn?
   * How should it make the students feel?
   

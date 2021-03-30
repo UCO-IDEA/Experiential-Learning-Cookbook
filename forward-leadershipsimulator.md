@@ -11,29 +11,29 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 ## How It Works
 
-**Teams of Four Select Their Roles** </br>
-
-<img style="float: right; margin-left:20px; margin-bottom:20px; " width="400" src="Assets\ImagesForTools\Forward-Screenshot-3.jpg">
+**Teams of Four Select Their Roles**
 
 <img style="float: right; margin-left:20px; margin-bottom:20px; " width="400" src="Assets\ImagesForTools\Forward-Screenshot-1.jpg">
 
 Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
 
-**Players Make Decisions** </br>
+**Players Make Decisions**
 
 Each player makes one role-specific decision each round, making sure to communicate with their teammates to make the best decision possible.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\Forward-Screenshot-2 (1) (1).jpg">
 
-**Leader Decides How to Travel** </br>
+**Leader Decides How to Travel**
 
 The leader sees the decisions each team member has made, communicates with the team to discuss what to do, and then submits their choice to determine if their team climbs up the mountain, stays at the current camp, or travels back down the mountain.
 
-**Players Assess Their Situation** </br>
+<img style="float: right; margin-left:20px; margin-bottom:20px; " width="400" src="Assets\ImagesForTools\Forward-Screenshot-3.jpg">
+
+**Players Assess Their Situation**
 
 Once a new turn begins, all players will be taken to the progress report where they can see the result of their most recent choice, the location of each team member, and other basic information.
 
-**Learn, Adapt, and Climb** </br>
+**Learn, Adapt, and Climb**
 
 When the next turn begins the cycle starts again as players attempt to work together to get as many team members to reach the top of the mountain as they can.
 
@@ -41,7 +41,7 @@ When the next turn begins the cycle starts again as players attempt to work toge
 
 **[Instructions PDF](https://bit.ly/3uajJQY)**
 
-**Video Instructions** </br>
+**Video Instructions**
 
 * [How to Use Forward](https://www.youtube.com/watch?v=PPqKYJ3dUsA)
 

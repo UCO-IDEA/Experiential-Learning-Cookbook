@@ -12,17 +12,17 @@ Professor Jennifer Foster Came up with Persuasive Speech for her course by the s
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\PersuasiveSpeech-Screenshot-2.png">
 
-**Record and Upload a Speech** </br>
+**Record and Upload a Speech**
 
 Students record themselves giving their speech. They then upload their video to YouTube to host the video. Next they enter their YouTube link into Persuasive Speech, which will create a presenter page and an audience page.
 
-**View Other Students' Audience Pages** </br>
+**View Other Students' Audience Pages**
 
 Students visit their peers’ audience page which starts by telling them a topic and asking them to rate their initial opinion on the topic. The student watches the speech and then sees the same scale to give their final opinion on the topic.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\PersuasiveSpeech-Screenshot-1.png">
 
-**View Your Presenter Page** </br>
+**View Your Presenter Page**
 
 Students then visit their own presenter page to see tangible data on how persuasive their peers found their speech. Data is created by comparing initial opinions and final opinions.
 
@@ -30,7 +30,7 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 **[Instructions PDF](https://cece.uco.edu/idea/Persuasivespeech/instructions/Persuasive%20Speech%20Instructions.pdf)**
 
-**Video Instructions**  </br>
+**Video Instructions**
 
 * [Create a Presentation](https://www.youtube.com/watch?v=xnMKVlQoLEQ&feature=youtu.be)
 * [Speech Set Up](https://www.youtube.com/watch?v=vZBq4oX5ccw&feature=youtu.be)

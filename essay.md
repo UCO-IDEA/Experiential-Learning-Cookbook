@@ -13,25 +13,25 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\InsteractiveEssay-Screenshot-1.jpg">
 
-### Open Your Essay </br>
+### Open Your Essay
 
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
 
-**Read the Essay and Reorganize It** </br>
+**Read the Essay and Reorganize It**
 
 Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
 
-**View History** </br>
+**View History**
 
 Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
 
-**Add and Delete Paragraphs** </br>
+**Add and Delete Paragraphs**
 
 If students determine that a paragraph doesn’t fit, they can delete the paragraph block. If students determine that a paragraph is missing, they can type and submit a new paragraph block.
 
-**Call it Complete** </br>
+**Call it Complete**
 
 Once all team members are in agreement that the essay is complete, they simply need to inform their professor.
 
@@ -39,7 +39,7 @@ Once all team members are in agreement that the essay is complete, they simply n
 
 [Instructions PDF](https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf)
 
-**Video Instructions** </br>
+**Video Instructions**
 
 * [Open an Essay](https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA)
 * [Edit an Essay](https://www.youtube.com/watch?v=2YKHzEabazE&feature=youtu.be&ab_channel=CeCEIDEA)
