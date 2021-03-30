@@ -28,14 +28,14 @@ Students then visit their own presenter page to see tangible data on how persuas
 
 ## Documentation
 
-**[Instructions PDF](https://cece.uco.edu/idea/Persuasivespeech/instructions/Persuasive%20Speech%20Instructions.pdf)**
+<a href="https://cece.uco.edu/idea/Persuasivespeech/instructions/Persuasive%20Speech%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
 
 **Video Instructions**
 
-* [Create a Presentation](https://www.youtube.com/watch?v=xnMKVlQoLEQ&feature=youtu.be)
-* [Speech Set Up](https://www.youtube.com/watch?v=vZBq4oX5ccw&feature=youtu.be)
-* [Visit Classmates Videos](https://www.youtube.com/watch?v=DSrfVEPtjEs&feature=youtu.be)
-* [Monitor Responses](https://www.youtube.com/watch?v=xMyM17cLEA4&feature=youtu.be)
+* <a href="https://www.youtube.com/watch?v=xnMKVlQoLEQ&feature=youtu.be" target="_blank"><b>Create a Presentation</b></a>
+* <a href="https://www.youtube.com/watch?v=vZBq4oX5ccw&feature=youtu.be" target="_blank"><b>Speech Set Up</b></a>
+* <a href="https://www.youtube.com/watch?v=DSrfVEPtjEs&feature=youtu.be" target="_blank"><b>Visit Classmates Videos</b></a>
+* <a href="https://www.youtube.com/watch?v=xMyM17cLEA4&feature=youtu.be" target="_blank"><b>Monitor Responses</b></a>
 
 ### Process Map for Developers
 

@@ -29,20 +29,20 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ## Documentation
 
-**[Instructions PDF](https://cece.uco.edu/idea/PosterPresentation/instructions/Digital%20Poster%20Instructions.pdf)**
+<a href="https://cece.uco.edu/idea/PosterPresentation/instructions/Digital%20Poster%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
 
 **Video Instructions**
 
-* [Plan](https://www.youtube.com/watch?v=8RfNHcPlm98&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Create Poster Graphics](https://www.youtube.com/watch?v=k4n-gRexNM0&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Edit Mode](https://www.youtube.com/watch?v=q88ZAkxwXNU&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Preview Mode](https://www.youtube.com/watch?v=HcFy1pUPfAM&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Display your Poster](https://www.youtube.com/watch?v=Vd-aePfec1U)
-* [Visit a Classmates Poster](https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be)
+* <a href="https://www.youtube.com/watch?v=8RfNHcPlm98&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Plan</b></a>
+* <a href="https://www.youtube.com/watch?v=k4n-gRexNM0&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Create Poster Graphics</b></a>
+* <a href="https://www.youtube.com/watch?v=q88ZAkxwXNU&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Edit Mode</b></a>
+* <a href="https://www.youtube.com/watch?v=HcFy1pUPfAM&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Preview Mode</b></a>
+* <a href="https://www.youtube.com/watch?v=Vd-aePfec1U" target="_blank"><b>Display your Poster</b></a>
+* <a href="https://www.youtube.com/watch?v=-SiugR2sEtQ&feature=youtu.be" target="_blank"><b>Visit a Classmates Poster</b></a>
 
 ### Process Map for Developers
 
-![Digital Poster Image Experience Map](/Assets/ImagesForTools/Developer.png)
+<a href="/Assets/ImagesForTools/Developer.png" target="_blank">![Digital Poster Image Experience Map](/Assets/ImagesForTools/Developer.png)</a>
 
 ### Process Map for Instructors
 

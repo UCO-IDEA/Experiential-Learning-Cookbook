@@ -13,7 +13,7 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\InsteractiveEssay-Screenshot-1.jpg">
 
-### Open Your Essay
+**Open Your Essay**
 
 Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
 
@@ -37,15 +37,15 @@ Once all team members are in agreement that the essay is complete, they simply n
 
 ## Documentation
 
-[Instructions PDF](https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf)
+<a href="https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
 
 **Video Instructions**
 
-* [Open an Essay](https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Edit an Essay](https://www.youtube.com/watch?v=2YKHzEabazE&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Communicate with your Team](https://www.youtube.com/watch?v=tcqlnx59gXQ&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Save an Essay](https://www.youtube.com/watch?v=GS1y2q0y2Dc&feature=youtu.be&ab_channel=CeCEIDEA)
-* [Repeat and Submit](https://www.youtube.com/watch?v=mnk1w3mOr0E&feature=youtu.be&ab_channel=CeCEIDEA)
+* <a href="https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Open an Essay</b></a>
+* <a href="https://www.youtube.com/watch?v=2YKHzEabazE&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Edit an Essay</b></a>
+* <a href="https://www.youtube.com/watch?v=tcqlnx59gXQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Communicate with your Team</b></a>
+* <a href="https://www.youtube.com/watch?v=GS1y2q0y2Dc&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Save an Essay</b></a>
+* <a href="https://www.youtube.com/watch?v=mnk1w3mOr0E&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Repeat and Submit</b></a>
 
 ### Process Map for Instructors
 

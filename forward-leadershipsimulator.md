@@ -39,11 +39,11 @@ When the next turn begins the cycle starts again as players attempt to work toge
 
 ## Documentation
 
-**[Instructions PDF](https://bit.ly/3uajJQY)**
+<a href="https://bit.ly/3uajJQY" target="_blank"><b>Instructions PDF</b></a>
 
 **Video Instructions**
 
-* [How to Use Forward](https://www.youtube.com/watch?v=PPqKYJ3dUsA)
+* <a href="https://www.youtube.com/watch?v=PPqKYJ3dUsA" target="_blank"><b>How to Use Forward</b></a>
 
 ### Process Map for Developers
 
