@@ -42,7 +42,7 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Developers
 
-<a href="/Assets/ImagesForTools/Developer.png" target="_blank">![Digital Poster Image Experience Map](/Assets/ImagesForTools/Developer.png)</a>
+<a href="/Assets/ImagesForTools/Developer.png" target="_blank">![Digital Poster Image Experience Map](https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/Developer.png)</a>
 
 ### Process Map for Instructors
 
