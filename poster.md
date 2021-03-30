@@ -46,7 +46,7 @@ The student then finalizes their poster presentation, receives a link to their w
 
 ### Process Map for Instructors
 
-![Digital Poster Image Experience Map](/Assets/ImagesForTools/DigitalPoster-ExperienceMap-Instructor%20(2).jpg)
+![Digital Poster Image Experience Map](Assets\ImagesForTools\DigitalPoster-ExperienceMap-Developer.jpg)
 
 ### Process Map for Students
 
