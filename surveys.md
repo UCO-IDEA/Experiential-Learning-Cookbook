@@ -42,20 +42,61 @@ Google was used for the ease of recording responses to the same Google Sheet for
 
 ## Survey Results
 
-**Persuasive Speech Surveys**
-
 A survey that will be given to students who have used the initial version of the Persuasive Speech tool to collect feedback on how it worked, how they perceived the experience, and how they think it can be improved.
 
-The first round of results indicated the persuasive essay tool was useful, but difficult to understand. Suggesting a “How to” video may be necessary upon its completion. The majority of students would choose to use the Persuasive Speech tool again.
+**Persuasive Speech Surveys**
+
+77% of students agreed or strongly agreed that Persuasive Speech to be a positive experience.
+
+*(full results will be posted here soon)*
+
+Quotes:
+
+* “I enjoyed seeing how many people I persuaded.”
+* “I appreciated being able to see everyone's reaction to my topic.”
+* “It was a really helpful tool and I would use again.”
+
+Requested Improvements:
+
+* A page that stores the class's URLs
+* Ability to include visuals
 
 **Digital Poster Surveys**
 
-The instructor who took the survey overall believed that the digital poster was helpful, though it allowed the students to use far too many mediums and students found technical difficulties compared to Google slides. Half of the students who filled out surveys indicated they would prefer to use the Digital Poster again while others would prefer Google Slides or PowerPoint.
+100% of students agreed or strongly agreed that interacting with finalized digital posters is a positive experience.
+
+*(full results will be posted here soon)*
+
+Quotes:
+
+* “I appreciated the ability to tie everything together and the ease to put it together.”
+* “The final product was nice and interactive.”
+* “I did like how when you clicked on an image in the picture you could watch the video created by the student.”
+
+Requested Improvements:
+
+* In-progress save feature
+* More approved content sources
+* Better image sizing controls
 
 **Forward Surveys**
 
-Data is being processed now.
+100% of students agreed or strongly agreed that Forward enhanced their learning experience over a traditional assignment.
+
+*(full results will be posted here soon)*
+
+Quotes:
+
+* “I enjoyed applying both leader and follower skills, and engaging with classmates in a unique experience.”
+* “This was really fun and definitely a true depiction of working with others.”
+* “It was a great simulation!”
+
+Requested Improvements:
+
+* In-app communication
+* More data available to admins
+* A more clear health indicator
 
 **Interactive Essay Surveys**
 
-No Data
+No data to report
