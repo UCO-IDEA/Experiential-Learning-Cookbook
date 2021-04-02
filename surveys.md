@@ -42,7 +42,7 @@ Google was used for the ease of recording responses to the same Google Sheet for
 
 ## Survey Results
 
-A survey that will be given to students who have used the initial version of the Persuasive Speech tool to collect feedback on how it worked, how they perceived the experience, and how they think it can be improved.
+A survey was to students and instructors who have used the initial version of the tools to collect feedback on how it worked, how they perceived the experience, and how they think it can be improved.
 
 **Persuasive Speech Surveys**
 
