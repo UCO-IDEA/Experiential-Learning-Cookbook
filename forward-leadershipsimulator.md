@@ -3,11 +3,11 @@
 
 # Forward - Leadership Simulator
 
-A leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-specific decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on-time.
+Forward is a leadership simulation where teams of four work together and use their role-specific skills to get their team to the summit of a challenging mountain. Students will need to communicate with each other as they assess the ever-changing situation, make role-based decisions, determine how their decisions affect the team, and decide how their team will travel in order to reach the summit safely and on time.
 
 ## Concept
 
-Professor Trevor Cox came up with Forward for his Foundations of Organizational Leadership course. His goal was to take a role playing assignment generally done in person and turn it into an interactive leadership simulating video game.
+Assistant Professor Trevor Cox came up with Forward for his Foundations of Organizational Leadership course. His goal was to take a role playing assignment generally done in person and turn it into an interactive leadership simulating video game.
 
 ## How It Works
 
@@ -15,7 +15,7 @@ Professor Trevor Cox came up with Forward for his Foundations of Organizational 
 
 <img style="float: right; margin-left:20px; margin-bottom:20px; " width="400" src="Assets\ImagesForTools\Forward-Screenshot-1.jpg">
 
-Each team member must select a different role, and can choose from medic, meteorologist, navigator, and thrill seeker.
+Each team member must select a different role (medic, meteorologist, navigator, or thrill seeker) and then the team leader is chosen at random.
 
 **Players Make Decisions**
 

@@ -1,8 +1,4 @@
-# The Experiential Learning Assignments
-
-## Concept
-
-Create a Cookbook to serve as a guide for designing, implementing, and assessing virtual experiential learning assignments in order to increase student access to quality experiential learning material.
+# Introduction to the Experiential Learning Assignments
 
 ## Project Plan
 
@@ -12,19 +8,25 @@ Develop four virtual experiential learning assignments to allow students to virt
 
 ### Faculty
 
-<a href="https://www3.uco.edu/centraldirectory/profiles/834701" target="_blank"><b>Trevor Cox</b></a> **Projects:** Digital Poster and Forward - Leadership Simulation
+<a href="https://www3.uco.edu/centraldirectory/profiles/834701" target="_blank"><b>Trevor Cox</b></a> </br>
+**Assistant Professor** of Adult Education & Safety Sciences </br>
+**Projects:** Digital Poster and Forward - Leadership Simulation
 
-<a href="https://www.uco.edu/cla/departments/mass-communication/faculty" target="_blank"><b>Jennifer Foster</b></a> **Projects:** Persuasive Speech
+<a href="https://www.uco.edu/cla/departments/mass-communication/faculty" target="_blank"><b>Jennifer Foster</b></a>  </br>
+**Core Curriculum Coordinator** for the Department of Mass Communication  </br>
+**Projects:** Persuasive Speech
 
-<a href="https://www3.uco.edu/centraldirectory/profiles/3075" target="_blank"><b>Shay Rahm</b></a> **Projects:** Interactive Essay
+<a href="https://www3.uco.edu/centraldirectory/profiles/3075" target="_blank"><b>Shay Rahm</b></a>  </br>
+**Lecturer** for the Department of English </br>
+**Projects:** Interactive Essay
 
 ### Administration
 
-<a href="https://www3.uco.edu/centraldirectory/profiles/821521" target="_blank"><b>Jeff King</b></a> **Executive Director** for Excellence in
-Transformative Teaching and Learning
+<a href="https://www3.uco.edu/centraldirectory/profiles/821521" target="_blank"><b>Jeff King</b></a>  </br>
+**Executive Director** for Excellence in Transformative Teaching and Learning
 
-<a href="https://www.uco.edu/student-resources/ce/student-leadership" target="_blank"><b>Jarret Jobe</b></a> **Executive Director** of Student Leadership
-at University of Central Oklahoma
+<a href="https://www.uco.edu/student-resources/ce/student-leadership" target="_blank"><b>Jarret Jobe</b></a>  </br>
+**Executive Director** of Student Leadership at University of Central Oklahoma
 
 ### Support
 

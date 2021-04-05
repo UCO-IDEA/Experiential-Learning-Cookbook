@@ -2,10 +2,10 @@
 
 ## Were these outcomes obtained?
 
-* Provided a collaborative experience for faculty and students
-* Engineered an experience with opportunities for faculty to mentor students
-* Supported faculty in their efforts to enhance learning inside and outside of the classroom
-  * Brought research about facilitating learning to the attention of the university community
-  * Advocate for and recognize teaching excellence
-  * Acted as a resource for faculty as they planned, implemented, enhanced, and assessed student learning
-  * Promoted the teacher-scholar model of faculty excellence within UCO’s ethos of providing transformative learning opportunities for our students
+* Provided a collaborative experience for faculty and students.
+* Engineered an experience with opportunities for faculty to mentor students.
+* Supported faculty in their efforts to enhance learning inside and outside of the classroom.
+  * Brought university attention to research about facilitating learning.
+  * Advocated for and recognized teaching excellence.
+  * Acted as a resource for faculty as they planned, implemented, enhanced, and assessed student learning.
+  * Promoted the teacher-scholar model of faculty excellence within UCO’s ethos of providing transformative learning opportunities for our students.

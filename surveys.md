@@ -3,7 +3,7 @@
 
  **Methodology**
 
-Surveys were designed to measure the functionality and enjoyment of using the interactive tools as well as the learning experience and efficacy. Surveys were distributed to students as well as instructors to provide a basis of comparison and possible improvement. The surveys were designed to be short and easy to complete with few open response questions for ease of student completion as well as analysis. The first round of surveys were only sent to students who had used the innovative tool. In the future, surveys will also be sent to students who did not use the tool as a control group.
+In order to measure functionality, enjoyment, learning experience, and efficacy, surveys were distributed to students as well as instructors (for a basis of comparison). The surveys were designed to be short and easy to complete with few open response questions for ease of student completion as well as analysis. The first round of surveys were only sent to students who had used the innovative tool. In the future, surveys will also be sent to students who did not use the tool as a control group.
 
 **Tools**
 
@@ -12,7 +12,7 @@ Surveys were designed to measure the functionality and enjoyment of using the in
 
 Google was used for the ease of recording responses to the same Google Sheet for the purposes of analysis. Instructors distributed the survey to students.
 
-**Example Questions**
+**Example Survey**
 
 1. The instructions were clear and helpful.<br />
 *Response Options: 1 (Strongly Disagree) - 4 (Strongly Agree)*
@@ -79,6 +79,10 @@ Requested Improvements:
 * More approved content sources
 * Better image sizing controls
 
+**Interactive Essay Surveys**
+
+No data to report.
+
 **Forward Surveys**
 
 100% of students agreed or strongly agreed that Forward enhanced their learning experience over a traditional assignment.
@@ -96,7 +100,3 @@ Requested Improvements:
 * In-app communication
 * More data available to admins
 * A more clear health indicator
-
-**Interactive Essay Surveys**
-
-No data to report

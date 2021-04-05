@@ -1,6 +1,6 @@
 # The Tier System
 
-This system breaks experiential learning assignments up into three levels of tiers by their difficulty and amount of resources needed. Tiers are used to provide clarity into how to scale the assignment based around the technical skills, cost, time, complexity, and tools that are available.
+This system breaks up experiential learning assignments into three levels of tiers by their difficulty and amount of resources needed. Tiers are used to provide clarity into how to scale the assignment based around the technical skills, cost, time, complexity, and tools that are available.
 
 Using the tier system will help universities set the amount of resources, time, and personnel that they will need to create the assignment.
 
@@ -19,7 +19,7 @@ The number of staff with abilities and knowledge needed to perform the required 
 The time required to research and plan the assignment.
 
 **Production Time:**
-The time required to develop, test, evaluate, and maintain the assignment. Does your personell have the capacity for this?
+The time required to develop, test, evaluate, and maintain the assignment. Does your personnel have the capacity for this?
 
 **Complexity:**
 How difficult it is to achieve the desired result?

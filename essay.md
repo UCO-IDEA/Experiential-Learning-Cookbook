@@ -3,11 +3,11 @@
 
 # Interactive Essay
 
-A tool that allows students to work collaboratively to manipulate an essay to learn and thrive at essay structure. Students collaboratively edit the same essay while participating in discussion to determine the best placement for each paragraph.
+A tool that allows students to work together to manipulate an essay to learn and thrive at essay structure. Students collaboratively edit an essay while participating in discussion to determine the best placement for each paragraph.
 
 ## Concept
 
-Professor Shay Rahm came up with Interactive Essay with the goal of taking a generally lecture-heavy assignment and turning it into a collaborative, hands-on virtual experience.
+Lecturer Shay Rahm came up with Interactive Essay with the goal of taking a lecture-heavy assignment and turning it into a collaborative and hands-on virtual experience.
 
 ## How It Works
 
@@ -15,21 +15,21 @@ Professor Shay Rahm came up with Interactive Essay with the goal of taking a gen
 
 **Open Your Essay**
 
-Each group will be assigned a different existing essay. (Alternatively, this assignment can be altered to also require the students to initially write the essay in Interactive Essay.)
+Each group is assigned a different essay to analyze. (This assignment includes the option to also require the students to write the initial essay in the Interactive Essay tool.)
 
 **Read the Essay and Reorganize It**
 
-Each group member then reads the existing essay, which is broken into blocks consisting of different paragraphs. They then move the paragraph blocks to the location they believe it should be, making sure to leave comments to inform the other team member of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
+Group members then read the existing essay, which is broken down into blocks based on paragraphs. Then they arrange the blocks in the order they think they should be, making sure to leave comments to inform the other team members of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
 
 **View History**
 
-Students have the ability to view their essay’s edit history. By doing so they can see a complete list of who made edits and when.
+Students have the ability to view their essay’s edit history, allowing them to see a complete list of who made edits and when.
 
 **Add and Delete Paragraphs**
 
-If students determine that a paragraph doesn’t fit, they can delete the paragraph block. If students determine that a paragraph is missing, they can type and submit a new paragraph block.
+If students determine that a paragraph is missing, they can type and submit a new paragraph block. Conversely, if students determine that a paragraph doesn’t fit, they can delete the paragraph block.
 
 **Call it Complete**
 

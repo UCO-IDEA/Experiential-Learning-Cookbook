@@ -3,11 +3,11 @@
 
 # Digital Poster
 
-This tool allows students to take their poster design and turn it into its own presentation. Giving them the ability to add text, pictures, links, and videos to tell their story for them.
+This tool allows students to take their poster design and turn it into its own presentation, giving them the ability to add text, pictures, links, and videos to tell their story for them.
 
 ## Concept
 
-Professor Trevor Cox came up with Digital Poster for his Organizational Leadership Capstone course. His goal was to take the existing poster presentation assignment being done on actual poster paper and make it virtual.
+Assistant Professor Trevor Cox came up with Digital Poster for his Organizational Leadership Capstone course. His goal was to take the existing, physical poster presentation assignment and make it virtual.
 
 ## How It Works
 
@@ -15,17 +15,17 @@ Professor Trevor Cox came up with Digital Poster for his Organizational Leadersh
 
 **Upload Your Poster**
 
-A student inserts a link to the poster image that they created to serve as the background for their poster presentation.
+A student inserts the link to the image they've chosen to be the background for their poster presentation. (Students will want to create their image before using the Digital Poster tool. We recommend using Google Slides to create your image.)
 
 **Add Your Content**
 
-The student then uses Digital Poster to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
+The student then uses the Digital Poster tool to add annotation boxes wherever they desire. They then fill those boxes with the text, images, links, and videos they need in order to effectively present their topic.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/DigitalPoster-Screenshot-2.png">
 
 **Publish Your Poster**
 
-The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, they can experience the poster presentation and explore it while allowing the poster to present itself.
+The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, people can explore the presentation while allowing the poster to present itself.
 
 ## Documentation
 
