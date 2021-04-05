@@ -1,6 +1,6 @@
 # Contact Us
 
-### University of Oklahoma
+### The University of Central Oklahoma
 
 ### IDEA Team
 
