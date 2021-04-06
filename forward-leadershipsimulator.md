@@ -38,7 +38,9 @@ Once a new turn begins, all players will be taken to the progress report where t
 When the next turn begins the cycle starts again as players attempt to work together to get as many team members to reach the top of the mountain as they can.
 
 ## Websites
+
 [github](https://github.com/UCO-IDEA/Forward)
+
 [itch.io](https://uco-idea.itch.io/forward)
 
 ## Documentation
