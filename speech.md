@@ -26,6 +26,9 @@ Students visit their peers’ audience page which starts by telling them a topic
 
 Students then visit their own presenter page to see tangible data on how persuasive their peers found their speech. Data is created by comparing initial opinions and final opinions.
 
+
+## Run Your Own Version
+Click this link to the [repository](https://github.com/UCO-IDEA/PersuasiveSpeech) If you would like to  donload and run this on your own servers.
 ## Documentation
 
 <a href="https://cece.uco.edu/idea/Persuasivespeech/instructions/Persuasive%20Speech%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
