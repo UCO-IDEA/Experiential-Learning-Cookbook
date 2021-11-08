@@ -47,6 +47,9 @@ When the next turn begins the cycle starts again as players attempt to work toge
 
 <a href="https://bit.ly/3uajJQY" target="_blank"><b>Instructions PDF</b></a>
 
+## How Can I Use this this
+As or right now, we are still testing out a lot of the services. Contact us and eLearning@uco.edu to see how we can work together on this.
+
 **Video Instructions**
 
 * <a href="https://www.youtube.com/watch?v=PPqKYJ3dUsA" target="_blank"><b>How to Use Forward</b></a>
