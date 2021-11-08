@@ -27,6 +27,9 @@ The student then uses the Digital Poster tool to add annotation boxes wherever t
 
 The student then finalizes their poster presentation, receives a link to their web hosted poster, and then shares the link with their peers and professor. With that link, people can explore the presentation while allowing the poster to present itself.
 
+## Run Your Own Version
+Click this link to the [repository](https://github.com/UCO-IDEA/PosterPresentation) If you would like to  donload and run this on your own servers.
+
 ## Documentation
 
 <a href="https://cece.uco.edu/idea/PosterPresentation/instructions/Digital%20Poster%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
