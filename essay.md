@@ -35,6 +35,9 @@ If students determine that a paragraph is missing, they can type and submit a ne
 
 Once all team members are in agreement that the essay is complete, they simply need to inform their professor.
 
+## Run Your Own Version
+Click this link to the [repository](https://github.com/UCO-IDEA/PersuasiveSpeech) If you would like to  donload and run this on your own servers.
+
 ## Documentation
 
 <a href="https://cece.uco.edu/idea/EssayWriting/instructions/Interactive%20Essay%20Instructions.pdf" target="_blank"><b>Instructions PDF</b></a>
