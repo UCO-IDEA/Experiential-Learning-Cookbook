@@ -26,9 +26,9 @@ Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/Es
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Essay-for-Concept.jpg">
 
 - A new Essay page will open.
+
   <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/untitled-essay.png">
 
-</li>
 <li>
 Add a name such as "How to Make Cookies"</li>
 
