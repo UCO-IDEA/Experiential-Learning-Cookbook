@@ -23,10 +23,37 @@ Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/Es
 <li>Then click the</li>
 
 `New Essay` button.
-<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\InsteractiveEssay-Screenshot-1.jpg">
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Essay-for-Concept.jpg">
+
+- A new Essay page will open.
+  <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/untitled-essay.png">
+
+</li>
+<li>
+Add a name such as "How to Make Cookies"</li>
+
+in the `Untitled Essay` box
+
+<li> Add the following steps to the Paragraph Section:
+
+`This sugar cookie recipe is quick and easy to make. They are really good as-is or with candies mixed in. My friend uses chocolate mints on top, and they're great!`
 
 </li>
 
+<li>
+Click the</li>
+
+`Send` button under the paragraph box.
+
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/cookie-send.png">
+
+- Your essay will look like this.
+
+ <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png">
+
+> Note: From here you and your team can add more paragraphs to complete the
+
+</li>
 </ol>
 
 **Read the Essay and Reorganize It**
