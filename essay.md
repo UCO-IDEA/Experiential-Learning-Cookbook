@@ -64,12 +64,12 @@ Click the</li>
 <ol><li>
 
 Leave a comment by clicking the the `comment` button.
+
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/comment-box.png">
 
-</li>
 <li>Click `Save` for the changes to be submitted.</li>
 <li>Review the comment by clicking the comment review button.</li>
-
+<br></br>
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review.png">
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review-two.png">
 
