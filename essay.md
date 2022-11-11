@@ -63,15 +63,17 @@ Click the</li>
 
 <ol><li>
 
-Leave a comment by clicking the the `comment` button.
+Leave a comment by clicking the the `comment` button.</li>
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/comment-box.png">
 
 <li>Click `Save` for the changes to be submitted.</li>
 
-<li>Review the comment by clicking the comment review button.</li>
+<li>
 
-<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review.png">
+Review the comment by clicking the `comment review` button.</li>
+
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/comment-review-two.png">
 
 </ol>
 
