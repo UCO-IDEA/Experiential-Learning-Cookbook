@@ -49,14 +49,13 @@ Click the</li>
 `Send` button under the `paragraph box`.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/cookie-send.png">
-
+<br></br>
 - Your essay will look like this.
   <br></br>
-  <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png">
+  <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png"></li>
 
 > Note: From here you and your team can add more paragraphs to complete the essay.
 
-</li>
 </ol>
 
 ### Commenting
