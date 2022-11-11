@@ -89,7 +89,9 @@ Review the comment by clicking the `comment review` button.</li>
 
 **_Deleting Paragraphs_**
 
-<ol><li>Delete a paragraph by clicking the black X box.
+<ol><li>Delete a paragraph by clicking
+
+the `black X box`.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/delete.png"></li>
 
