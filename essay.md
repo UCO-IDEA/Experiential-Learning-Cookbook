@@ -1,13 +1,12 @@
-
 <img style="align:center; margin-bottom:20px;" src="Assets\ImagesForTools\InteractiveEssay-Header.jpg">
 
 # Interactive Essay
 
-A tool that allows students to work together to manipulate an essay to learn and thrive at essay structure. Students collaboratively edit an essay while participating in discussion to determine the best placement for each paragraph.
+An online tool for students to collaboratively work on an essay.
 
 ## Concept
 
-Lecturer Shay Rahm came up with Interactive Essay with the goal of taking a lecture-heavy assignment and turning it into a collaborative and hands-on virtual experience.
+Lecturer Shay Rahm came up with Interactive Essay to imporve a lecture-heavy assignment into a virtual experience.
 
 ## How It Works
 
@@ -15,7 +14,7 @@ Lecturer Shay Rahm came up with Interactive Essay with the goal of taking a lect
 
 **Open Your Essay**
 
-Each group is assigned a different essay to analyze. (This assignment includes the option to also require the students to write the initial essay in the Interactive Essay tool.)
+<li>Open the interactive essay tool.</li>
 
 **Read the Essay and Reorganize It**
 
@@ -36,7 +35,8 @@ If students determine that a paragraph is missing, they can type and submit a ne
 Once all team members are in agreement that the essay is complete, they simply need to inform their professor.
 
 ## Run Your Own Version
-Click this link to the [repository](https://github.com/UCO-IDEA/PersuasiveSpeech) If you would like to  donload and run this on your own servers.
+
+Click this link to the [repository](https://github.com/UCO-IDEA/PersuasiveSpeech) If you would like to donload and run this on your own servers.
 
 ## Documentation
 
@@ -44,8 +44,8 @@ Click this link to the [repository](https://github.com/UCO-IDEA/PersuasiveSpeech
 
 **Video Instructions**
 
-* <a href="https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Open an Essay</b></a>
-* <a href="https://www.youtube.com/watch?v=2YKHzEabazE&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Edit an Essay</b></a>
-* <a href="https://www.youtube.com/watch?v=tcqlnx59gXQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Communicate with your Team</b></a>
-* <a href="https://www.youtube.com/watch?v=GS1y2q0y2Dc&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Save an Essay</b></a>
-* <a href="https://www.youtube.com/watch?v=mnk1w3mOr0E&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Repeat and Submit</b></a>
+- <a href="https://www.youtube.com/watch?v=kxQmrvyMGyQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Open an Essay</b></a>
+- <a href="https://www.youtube.com/watch?v=2YKHzEabazE&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Edit an Essay</b></a>
+- <a href="https://www.youtube.com/watch?v=tcqlnx59gXQ&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Communicate with your Team</b></a>
+- <a href="https://www.youtube.com/watch?v=GS1y2q0y2Dc&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Save an Essay</b></a>
+- <a href="https://www.youtube.com/watch?v=mnk1w3mOr0E&feature=youtu.be&ab_channel=CeCEIDEA" target="_blank"><b>Repeat and Submit</b></a>
