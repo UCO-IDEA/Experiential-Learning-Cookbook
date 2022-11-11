@@ -72,8 +72,8 @@ Leave a comment by clicking the the `comment` button.
 <li>Review the comment by clicking the comment review button.</li>
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review.png">
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review-two.png">
 
-<img style="float: right; margin-left:20px; margin-bottom:15px;" width="400" src="Assets/ImagesForTools/comment-review-two.png">
 </ol>
 
 ### Viewing History
