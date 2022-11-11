@@ -33,9 +33,9 @@ Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/Es
 
 <li>
 
-Add a name such as "How to Make Cookies"</li>
+Add a name such as "How to Make Cookies"
 
-in the `Untitled Essay` box
+in the `Untitled Essay` box.</li>
 
 <li> Add the following steps to the Paragraph Section:
 
@@ -50,6 +50,7 @@ Click the</li>
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/cookie-send.png">
 <br></br>
+
 - Your essay will look like this.
   <br></br>
   <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png"></li>
