@@ -29,8 +29,10 @@ Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/Es
 - A new Essay page will open.
   <br></br>
   <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/untitled-essay.png">
+  <br></br>
 
 <li>
+
 Add a name such as "How to Make Cookies"</li>
 
 in the `Untitled Essay` box
