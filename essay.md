@@ -83,14 +83,15 @@ Leave a comment by clicking the the `comment` button.
 
 **_Deleting Paragraphs_**
 
-<ol><li>Delete a paragraph by clicking the black X box.</li></ol>
+<ol><li>Delete a paragraph by clicking the black X box.
 
-<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/version-history.png">
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/delete.png"></li>
+
 </ol>
 
-**Call it Complete**
+## Summary
 
-Once all team members are in agreement that the essay is complete, they simply need to inform their professor.
+Once all team members are in agreement that the essay is complete, they simply need to inform their professor that the essay is ready for review.
 
 ## Run Your Own Version
 
