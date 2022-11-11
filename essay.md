@@ -12,7 +12,7 @@ Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/Es
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\InsteractiveEssay-Screenshot-1.jpg">
 
-**Open Your Essay**
+### Adding a New Paragraph
 
 <ol>
 
@@ -43,32 +43,50 @@ in the `Untitled Essay` box
 <li>
 Click the</li>
 
-`Send` button under the paragraph box.
+`Send` button under the `paragraph box`.
 
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/cookie-send.png">
 
 - Your essay will look like this.
+  <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png">
 
- <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png">
-
-> Note: From here you and your team can add more paragraphs to complete the
+> Note: From here you and your team can add more paragraphs to complete the essay.
 
 </li>
 </ol>
 
-**Read the Essay and Reorganize It**
+### Commenting
 
-Group members then read the existing essay, which is broken down into blocks based on paragraphs. Then they arrange the blocks in the order they think they should be, making sure to leave comments to inform the other team members of why they placed paragraphs where they did. Students then save, and allow the next team member to do the same.
+<ol><li>
 
-<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="https://raw.githubusercontent.com/UCO-IDEA/ExperientialLearningCookbook/main/Assets/ImagesForTools/InsteractiveEssay-Screenshot-2.jpg">
+Leave a comment by clicking the the `comment` button.
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/comment-box.png">
 
-**View History**
+</li>
+<li>Click `Save` for the changes to be submitted.</li>
+<li>Review the comment by clicking the comment review button.</li>
 
-Students have the ability to view their essay’s edit history, allowing them to see a complete list of who made edits and when.
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review.png">
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/Comment-review-two.png">
 
-**Add and Delete Paragraphs**
+</ol>
 
-If students determine that a paragraph is missing, they can type and submit a new paragraph block. Conversely, if students determine that a paragraph doesn’t fit, they can delete the paragraph block.
+### Viewing History
+
+<ol>
+<li>Review the version history to determine who modified the essay by clicking the black
+
+`Version` button on the left of the screen.</li>
+
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/version-history.png">
+</ol>
+
+**_Deleting Paragraphs_**
+
+<ol><li>Delete a paragraph by clicking the black X box.</li></ol>
+
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/version-history.png">
+</ol>
 
 **Call it Complete**
 
