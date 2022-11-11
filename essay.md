@@ -6,7 +6,7 @@ An online tool for students to collaboratively work on an essay.
 
 ## Concept
 
-Lecturer Shay Rahm came up with Interactive Essay to imporve a lecture-heavy assignment into a virtual experience.
+Lecturer Shay Rahm came up with [Interactive Essay](https://cece.uco.edu/idea/EssayWriting/index.php) to improve a lecture-heavy assignment into a virtual experience.
 
 ## How It Works
 
@@ -14,7 +14,20 @@ Lecturer Shay Rahm came up with Interactive Essay to imporve a lecture-heavy ass
 
 **Open Your Essay**
 
-<li>Open the interactive essay tool.</li>
+<ol>
+
+ <li>First, access the CECE Idea Teams website</li> 
+ 
+ [Here.](https://cece.uco.edu/idea/EssayWriting/index.php)
+
+<li>Then click the</li>
+
+`New Essay` button.
+<img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets\ImagesForTools\InsteractiveEssay-Screenshot-1.jpg">
+
+</li>
+
+</ol>
 
 **Read the Essay and Reorganize It**
 
