@@ -51,6 +51,7 @@ Click the</li>
 <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/cookie-send.png">
 
 - Your essay will look like this.
+  <br></br>
   <img style="float: right; margin-left:20px; margin-bottom:20px;" width="400" src="Assets/ImagesForTools/final-paragraph.png">
 
 > Note: From here you and your team can add more paragraphs to complete the essay.
